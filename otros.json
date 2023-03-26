@@ -45,12 +45,6 @@
       "stickers": "10"
     },
     {
-      "identifier": "diadelhincha",
-      "name": "Día del Hincha",
-      "animated_sticker_pack": false,
-      "stickers": "10"
-    },
-    {
       "identifier": "memesriver1",
       "name": "Memes 1",
       "animated_sticker_pack": false,
@@ -153,7 +147,7 @@
       "stickers": "25"
     },
     {
-      "identifier": "emojis",
+      "identifier": "emojis1",
       "name": "Pack Emojis",
       "animated_sticker_pack": false,
       "stickers": "17"
@@ -163,12 +157,6 @@
       "name": "Pack Poster",
       "animated_sticker_pack": false,
       "stickers": "30"
-    },
-    {
-      "identifier": "fiesta",
-      "name": "Feliz Dia del Hincha",
-      "animated_sticker_pack": false,
-      "stickers": "15"
     },
     {
       "identifier": "hincha1",

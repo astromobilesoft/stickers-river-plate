@@ -10,7 +10,7 @@
     },
     {
       "identifier": "gallardoadios1",
-      "name": "Adios Gallardo",
+      "name": "Adiós Gallardo",
       "animated_sticker_pack": false,
       "stickers": "21"
     },
@@ -40,7 +40,7 @@
     },
     {
       "identifier": "tecnicos1",
-      "name": "Tecnicos",
+      "name": "Técnicos",
       "animated_sticker_pack": false,
       "stickers": "22"
     },
@@ -57,7 +57,7 @@
       "stickers": "18"
     },
     {
-      "identifier": "gallardo",
+      "identifier": "gallardo1",
       "name": "Stickers Gallardo 1",
       "animated_sticker_pack": false,
       "stickers": "13"

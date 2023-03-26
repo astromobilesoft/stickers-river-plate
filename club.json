@@ -45,6 +45,18 @@
       "stickers": "23"
     },
     {
+      "identifier": "diadelhincha1",
+      "name": "Día del Hincha",
+      "animated_sticker_pack": false,
+      "stickers": "10"
+    },
+    {
+      "identifier": "diadelhincha2",
+      "name": "Dia del Hincha (2)",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
       "identifier": "aniversario3",
       "name": "Madrid 3 Años",
       "animated_sticker_pack": false,

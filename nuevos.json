@@ -621,10 +621,16 @@
       "stickers": "24"
     },
     {
-      "identifier": "diadelhincha",
-      "name": "Día del Hincha",
+      "identifier": "diadelhincha1",
+      "name": "Día del Hincha (1)",
       "animated_sticker_pack": false,
       "stickers": "10"
+    },
+    {
+      "identifier": "diadelhincha2",
+      "name": "Dia del Hincha (2)",
+      "animated_sticker_pack": false,
+      "stickers": "15"
     },
     {
       "identifier": "despedidaponzio",
@@ -981,8 +987,8 @@
       "stickers": "30"
     },
     {
-      "identifier": "enzoperez",
-      "name": "Enzo Perez",
+      "identifier": "enzoperez1",
+      "name": "Enzo Perez (1)",
       "animated_sticker_pack": false,
       "stickers": "21"
     },
@@ -1527,7 +1533,7 @@
       "stickers": "19"
     },
     {
-      "identifier": "emojis",
+      "identifier": "emojis1",
       "name": "Pack Emojis",
       "animated_sticker_pack": false,
       "stickers": "17"
