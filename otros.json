@@ -112,13 +112,13 @@
     },
     {
       "identifier": "newyear2022",
-      "name": "Feliz Año (1)",
+      "name": "Feliz Año (2)",
       "animated_sticker_pack": false,
       "stickers": "11"
     },
     {
-      "identifier": "newyear",
-      "name": "Feliz Año (2)",
+      "identifier": "newyear1",
+      "name": "Feliz Año (1)",
       "animated_sticker_pack": false,
       "stickers": "10"
     },
@@ -171,7 +171,7 @@
       "stickers": "15"
     },
     {
-      "identifier": "hincha",
+      "identifier": "hincha1",
       "name": "Pack Hincha",
       "animated_sticker_pack": false,
       "stickers": "8"
