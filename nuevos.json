@@ -3,6 +3,12 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "amistoso2023b",
+      "name": "vs Universidad Chile",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
       "identifier": "lafiestadelcampeon1",
       "name": "La Fiesta del Campeón (1)",
       "animated_sticker_pack": false,
@@ -574,7 +580,7 @@
     },
     {
       "identifier": "gallardo4",
-      "name": "Gallardo 4",
+      "name": "Marcelo Gallardo (4)",
       "animated_sticker_pack": true,
       "stickers": "10"
     },
@@ -586,13 +592,13 @@
     },
     {
       "identifier": "gallardo2",
-      "name": "Stickers Gallardo 2",
+      "name": "Marcelo Gallardo (2)",
       "animated_sticker_pack": false,
       "stickers": "18"
     },
     {
       "identifier": "gallardo1",
-      "name": "Stickers Gallardo 1",
+      "name": "Marcelo Gallardo (1)",
       "animated_sticker_pack": false,
       "stickers": "13"
     },

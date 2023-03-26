@@ -3,6 +3,12 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "amistoso2023b",
+      "name": "vs Universidad Chile",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
       "identifier": "torneocampeones2023s1",
       "name": "vs Banfield",
       "animated_sticker_pack": false,
