@@ -1,0 +1,246 @@
+{
+  "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.riverplate",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "lucasbeltran1",
+      "name": "Lucas Beltran (1)",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "lucasbeltran2",
+      "name": "Lucas Beltran (2)",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "salomonrondon1",
+      "name": "Salomón Rondón",
+      "animated_sticker_pack": false,
+      "stickers": "14"
+    },
+    {
+      "identifier": "nachofernandez1",
+      "name": "Nacho Fernandez",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "matiaskranevitter1",
+      "name": "Matías Kranevitter",
+      "animated_sticker_pack": false,
+      "stickers": "9"
+    },
+    {
+      "identifier": "despedidaponzio",
+      "name": "Capitan Eterno",
+      "animated_sticker_pack": false,
+      "stickers": "12"
+    },
+    {
+      "identifier": "graciasponzio",
+      "name": "Gracias Ponzio",
+      "animated_sticker_pack": false,
+      "stickers": "12"
+    },
+    {
+      "identifier": "equipo2023",
+      "name": "Plantel 2023",
+      "animated_sticker_pack": false,
+      "stickers": "29"
+    },
+    {
+      "identifier": "miguelborja1",
+      "name": "Bienvenido Borja",
+      "animated_sticker_pack": false,
+      "stickers": "9"
+    },
+    {
+      "identifier": "adiosjulian",
+      "name": "Adiós Julian",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "matiasalmeyda1",
+      "name": "Matias Almeyda",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
+      "identifier": "andresdalessandro1",
+      "name": "Andres D Alessandro",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "enzofernandez1",
+      "name": "Enzo Fernandez",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "francoarmani1",
+      "name": "Franco Armani",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "julianalvarez2",
+      "name": "Julian Alvarez (2)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "equipo2022",
+      "name": "Equipo 2022",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "enzoperez2",
+      "name": "Enzo Perez (2)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "enzoperez",
+      "name": "Enzo Perez (1)",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "juanferanimados",
+      "name": "Juanfer Animados",
+      "animated_sticker_pack": true,
+      "stickers": "9"
+    },
+    {
+      "identifier": "davidtrezeguet1",
+      "name": "David Trezeguet",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "fernandocavenaghi1",
+      "name": "Fernando Cavenaghi",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "juanferregreso",
+      "name": "JuanFer Regresa",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "refuerzos2022",
+      "name": "Refuerzos 2022",
+      "animated_sticker_pack": false,
+      "stickers": "9"
+    },
+    {
+      "identifier": "paulodiaz",
+      "name": "Paulo Diaz",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "julianalvarez1",
+      "name": "Julian Alvarez (1)",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "leyendas3",
+      "name": "Leyendas (3)",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "leyendas4",
+      "name": "Leyendas (4)",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "cuerpotecnico2021",
+      "name": "Cuerpo Tecnico 2021",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "jugadores2021",
+      "name": "Jugadores 2021",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "burritoortega1",
+      "name": "Burrito Ortega",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "francescoli1",
+      "name": "Enzo Francescoli",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "equipo2021",
+      "name": "Stickers Equipo 2021",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "equipo2019",
+      "name": "Stickers Equipo 2019",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "mora",
+      "name": "Pack Rodrigo Mora",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "maidana",
+      "name": "Stickers Maidana",
+      "animated_sticker_pack": false,
+      "stickers": "12"
+    },
+    {
+      "identifier": "rodrigomora",
+      "name": "Stickers #GraciasMorita",
+      "animated_sticker_pack": false,
+      "stickers": "10"
+    },
+    {
+      "identifier": "leyendas1",
+      "name": "Stickers Leyendas 1",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "leyendas2",
+      "name": "Stickers Leyendas 2",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "jugadoresriver1",
+      "name": "Stickers Jugadores 1",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "jugadoresriver2",
+      "name": "Stickers Jugadores 2",
+      "animated_sticker_pack": false,
+      "stickers": "14"
+    }
+  ]
+}

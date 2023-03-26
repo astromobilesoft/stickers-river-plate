@@ -1,0 +1,78 @@
+{
+  "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.riverplate",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "aniversario4",
+      "name": "4 años de Madrid",
+      "animated_sticker_pack": false,
+      "stickers": "12"
+    },
+    {
+      "identifier": "preclasico2022",
+      "name": "Previa Superclasico",
+      "animated_sticker_pack": false,
+      "stickers": "13"
+    },
+    {
+      "identifier": "gastadas2022a",
+      "name": "Gastadas 2022",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
+      "identifier": "gastadasclasico2021b",
+      "name": "Gastadas Superclasico (2)",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "gastadasclasico2021",
+      "name": "Gastadas Superclasico",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
+      "identifier": "preclasico2021",
+      "name": "Previa Superclasico",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "aniversario2",
+      "name": "Segundo Aniversario",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
+      "identifier": "funeral",
+      "name": "Pack Funeral",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
+      "identifier": "aniversario1",
+      "name": "Aniversario 9/12/2018",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "cargadas2",
+      "name": "Pack Cargadas (2)",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "cargadas1",
+      "name": "Pack Cargadas",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
+      "identifier": "gastadas1",
+      "name": "Stickers Gastadas",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    }
+  ]
+}

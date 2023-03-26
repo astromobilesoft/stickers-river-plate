@@ -1,0 +1,48 @@
+{
+  "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.riverplate",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "lpf2020fc3",
+      "name": "vs Arsenal",
+      "animated_sticker_pack": false,
+      "stickers": "14"
+    },
+    {
+      "identifier": "lpf2020fc2",
+      "name": "vs Huracan",
+      "animated_sticker_pack": false,
+      "stickers": "11"
+    },
+    {
+      "identifier": "lpf2020fg6",
+      "name": "vs Godoy Cruz",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "lpf2020fg5",
+      "name": "vs Central",
+      "animated_sticker_pack": false,
+      "stickers": "9"
+    },
+    {
+      "identifier": "lpf2020fg4",
+      "name": "vs Banfield",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "lpf2020fg3",
+      "name": "vs Godoy Cruz",
+      "animated_sticker_pack": false,
+      "stickers": "14"
+    },
+    {
+      "identifier": "lpf2020fg2",
+      "name": "vs Central",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    }
+  ]
+}

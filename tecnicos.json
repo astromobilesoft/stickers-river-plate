@@ -1,0 +1,66 @@
+{
+  "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.riverplate",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "martindemichelis1",
+      "name": "Martín Demichelis",
+      "animated_sticker_pack": false,
+      "stickers": "10"
+    },
+    {
+      "identifier": "gallardoadios1",
+      "name": "Adios Gallardo",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "gallardogracias1",
+      "name": "Gracias Gallardo (1)",
+      "animated_sticker_pack": false,
+      "stickers": "14"
+    },
+    {
+      "identifier": "gallardogracias2",
+      "name": "Gracias Gallardo (2)",
+      "animated_sticker_pack": false,
+      "stickers": "13"
+    },
+    {
+      "identifier": "gallardo2022",
+      "name": "Gallardo 2022",
+      "animated_sticker_pack": false,
+      "stickers": "9"
+    },
+    {
+      "identifier": "galladonoseva",
+      "name": "Gallardo No se va",
+      "animated_sticker_pack": false,
+      "stickers": "12"
+    },
+    {
+      "identifier": "tecnicos1",
+      "name": "Tecnicos",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "gallardo3",
+      "name": "Gallardo Final 2019",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "gallardo2",
+      "name": "Stickers Gallardo 2",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "gallardo",
+      "name": "Stickers Gallardo 1",
+      "animated_sticker_pack": false,
+      "stickers": "13"
+    }
+  ]
+}

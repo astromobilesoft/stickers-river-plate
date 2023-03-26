@@ -1,0 +1,18 @@
+{
+  "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.riverplate",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "copaargentina21f16",
+      "name": "vs Atl Tucuman",
+      "animated_sticker_pack": false,
+      "stickers": "10"
+    },
+    {
+      "identifier": "copaargentina21f32",
+      "name": "vs Depro",
+      "animated_sticker_pack": false,
+      "stickers": "13"
+    }
+  ]
+}
