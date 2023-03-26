@@ -1,0 +1,42 @@
+{
+  "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.riverplate",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "lpf2023f8",
+      "name": "vs Sarmiento",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
+      "identifier": "lpf2023f7",
+      "name": "vs Godoy Cruz",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "lpf2023f6",
+      "name": "vs Lanus",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "lpf2023f4",
+      "name": "vs Tigre",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "lpf2023f3",
+      "name": "vs Argentinos Jrs",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
+      "identifier": "lpf2023f1",
+      "name": "vs Central Córdoba",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    }
+  ]
+}
