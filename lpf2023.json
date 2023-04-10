@@ -3,6 +3,18 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "lpf2023f10a",
+      "name": "vs Huracán (1)",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "lpf2023f10b",
+      "name": "vs Huracán (2)",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
       "identifier": "lpf2023f9",
       "name": "vs Union",
       "animated_sticker_pack": false,
