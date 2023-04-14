@@ -3,6 +3,18 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "lpf2023f11a",
+      "name": "vs Gimnasia LP (1)",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "lpf2023f11b",
+      "name": "vs Gimnasia LP (2)",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
       "identifier": "lpf2023f10a",
       "name": "vs Huracán (1)",
       "animated_sticker_pack": false,
