@@ -3,6 +3,18 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "lpf2023f13a",
+      "name": "vs Independiente (1)",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
+      "identifier": "lpf2023f13b",
+      "name": "vs Independiente (2)",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
       "identifier": "luisitocomunica1",
       "name": "Luisito Comunica",
       "animated_sticker_pack": false,
