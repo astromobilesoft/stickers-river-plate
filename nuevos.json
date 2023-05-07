@@ -3,6 +3,18 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "lpf2023f14a",
+      "name": "vs Boca (1)",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "lpf2023f14b",
+      "name": "vs Boca (2)",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
       "identifier": "preclasico2023",
       "name": "Previa Super (1)",
       "animated_sticker_pack": false,
