@@ -3,6 +3,12 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "lpf2023f14d",
+      "name": "vs Boca (4)",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
       "identifier": "lpf2023f14c",
       "name": "vs Boca (3)",
       "animated_sticker_pack": false,
