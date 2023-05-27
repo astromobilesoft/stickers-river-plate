@@ -3,6 +3,12 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "gallardoeterno",
+      "name": "Gallardo Eterno",
+      "animated_sticker_pack": false,
+      "stickers": "14"
+    },
+    {
       "identifier": "lpf2023f17",
       "name": "vs Platense",
       "animated_sticker_pack": false,
