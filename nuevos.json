@@ -3,6 +3,12 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "libertadores2023fg5",
+      "name": "vs Fluminense",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
       "identifier": "lpf2023f18",
       "name": "vs Velez Sarsfield",
       "animated_sticker_pack": false,
