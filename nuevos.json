@@ -3,6 +3,12 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "julianalvarez3",
+      "name": "Julián Álvarez 22-23",
+      "animated_sticker_pack": false,
+      "stickers": "12"
+    },
+    {
       "identifier": "libertadores2023fg5",
       "name": "vs Fluminense",
       "animated_sticker_pack": false,
@@ -538,7 +544,7 @@
     },
     {
       "identifier": "worldcup2022julianalvarez",
-      "name": "Julian Alvarez (3)",
+      "name": "Julián Álvarez (3)",
       "animated_sticker_pack": false,
       "stickers": "30"
     },
@@ -916,13 +922,13 @@
     },
     {
       "identifier": "juliancity",
-      "name": "Julian City",
+      "name": "Julián City",
       "animated_sticker_pack": false,
       "stickers": "17"
     },
     {
       "identifier": "adiosjulian",
-      "name": "Adios Julian",
+      "name": "Adios Julián",
       "animated_sticker_pack": false,
       "stickers": "27"
     },
@@ -1096,7 +1102,7 @@
     },
     {
       "identifier": "julianalvarez2",
-      "name": "Julian Alvarez (2)",
+      "name": "Julián Álvarez (2)",
       "animated_sticker_pack": false,
       "stickers": "30"
     },
@@ -1330,7 +1336,7 @@
     },
     {
       "identifier": "julianalvarez1",
-      "name": "Julian Alvarez (1)",
+      "name": "Julián Álvarez (1)",
       "animated_sticker_pack": false,
       "stickers": "15"
     },
