@@ -3,6 +3,12 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "lpf2023f19",
+      "name": "vs Defensa y Justicia",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
       "identifier": "lpf2023f20",
       "name": "vs Banfield",
       "animated_sticker_pack": false,
