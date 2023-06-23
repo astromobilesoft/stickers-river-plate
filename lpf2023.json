@@ -3,6 +3,18 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "lpf2023f21a",
+      "name": "vs Instituto (1)",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "lpf2023f21b",
+      "name": "vs Instituto (2)",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
       "identifier": "lpf2023f19",
       "name": "vs Defensa y Justicia",
       "animated_sticker_pack": false,
