@@ -1,0 +1,42 @@
+{
+  "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.riverplate",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "libertadores2023fg6fotosconmebol",
+      "name": "Plantel Libertadores 23",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "libertadores2023fg6a",
+      "name": "vs The Strongest (1)",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "libertadores2023fg6b",
+      "name": "vs The Strongest (2)",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "libertadores2023fg5",
+      "name": "vs Fluminense",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "libertadores2023fg2a",
+      "name": "vs Sp Cristal (1)",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "libertadores2023fg2b",
+      "name": "vs Sp Cristal (2)",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    }
+  ]
+}
