@@ -3,6 +3,18 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "lpf2023f27a",
+      "name": "vs Racing (1)",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "lpf2023f27b",
+      "name": "vs Racing (2)",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
       "identifier": "lpf2023f26",
       "name": "vs Rosario Central",
       "animated_sticker_pack": false,
