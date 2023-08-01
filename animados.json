@@ -3,6 +3,12 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "memesriver4",
+      "name": "Memes Animados",
+      "animated_sticker_pack": true,
+      "stickers": "16"
+    },
+    {
       "identifier": "navidadargentina",
       "name": "Navidad Argentina",
       "animated_sticker_pack": true,
