@@ -1,1908 +1,1914 @@
 {
-  "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.riverplate",
-  "ios_app_store_link": "",
-  "sticker_packs": [
-    {
-      "identifier": "copaliga2023f2a",
-      "name": "vs Barracas (1)",
-      "animated_sticker_pack": false,
-      "stickers": "15"
-    },
-    {
-      "identifier": "copaliga2023f2b",
-      "name": "vs Barracas (2)",
-      "animated_sticker_pack": false,
-      "stickers": "15"
-    },
-    {
-      "identifier": "camiseta2324a",
-      "name": "Primer Camiseta 23-24",
-      "animated_sticker_pack": false,
-      "stickers": "18"
-    },
-    {
-      "identifier": "pitymartinez1",
-      "name": "Pity Martinez (1)",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "pitymartinez2",
-      "name": "Pity Martinez (2)",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "manulanzini1",
-      "name": "Manu Lanzini",
-      "animated_sticker_pack": false,
-      "stickers": "19"
-    },
-    {
-      "identifier": "libertadores2023o1",
-      "name": "vs Inter PA",
-      "animated_sticker_pack": false,
-      "stickers": "27"
-    },
-    {
-      "identifier": "memesriver4",
-      "name": "Memes Animados",
-      "animated_sticker_pack": true,
-      "stickers": "16"
-    },
-    {
-      "identifier": "lpf2023w2",
-      "name": "Campeón LPF 2023 (2)",
-      "animated_sticker_pack": false,
-      "stickers": "23"
-    },
-    {
-      "identifier": "lpf2023w3",
-      "name": "Campeón LPF 2023 (3)",
-      "animated_sticker_pack": false,
-      "stickers": "14"
-    },
-    {
-      "identifier": "lpf2023w4",
-      "name": "Campeón LPF 2023 (4)",
-      "animated_sticker_pack": false,
-      "stickers": "14"
-    },
-    {
-      "identifier": "lpf2023f27a",
-      "name": "vs Racing (1)",
-      "animated_sticker_pack": false,
-      "stickers": "15"
-    },
-    {
-      "identifier": "lpf2023f27b",
-      "name": "vs Racing (2)",
-      "animated_sticker_pack": false,
-      "stickers": "15"
-    },
-    {
-      "identifier": "lpf2023f26",
-      "name": "vs Rosario Central",
-      "animated_sticker_pack": false,
-      "stickers": "17"
-    },
-    {
-      "identifier": "lpf2023w1",
-      "name": "Campeón LPF 2023",
-      "animated_sticker_pack": false,
-      "stickers": "20"
-    },
-    {
-      "identifier": "memesriver3",
-      "name": "Memes 3",
-      "animated_sticker_pack": false,
-      "stickers": "12"
-    },
-    {
-      "identifier": "lpf2023f25d",
-      "name": "vs Estudiantes (3)",
-      "animated_sticker_pack": false,
-      "stickers": "15"
-    },
-    {
-      "identifier": "lpf2023f25c",
-      "name": "vs Estudiantes (2)",
-      "animated_sticker_pack": false,
-      "stickers": "22"
-    },
-    {
-      "identifier": "lpf2023f25b",
-      "name": "vs Estudiantes",
-      "animated_sticker_pack": false,
-      "stickers": "20"
-    },
-    {
-      "identifier": "lpf2023f25a",
-      "name": "Previa vs Estudiantes",
-      "animated_sticker_pack": false,
-      "stickers": "12"
-    },
-    {
-      "identifier": "libertadores2023fg6fotosconmebol",
-      "name": "Plantel Libertadores 23",
-      "animated_sticker_pack": false,
-      "stickers": "26"
-    },
-    {
-      "identifier": "lpf2023f23",
-      "name": "vs Colón",
-      "animated_sticker_pack": false,
-      "stickers": "24"
-    },
-    {
-      "identifier": "libertadores2023fg6a",
-      "name": "vs The Strongest (1)",
-      "animated_sticker_pack": false,
-      "stickers": "15"
-    },
-    {
-      "identifier": "libertadores2023fg6b",
-      "name": "vs The Strongest (2)",
-      "animated_sticker_pack": false,
-      "stickers": "15"
-    },
-    {
-      "identifier": "lpf2023f21a",
-      "name": "vs Instituto (1)",
-      "animated_sticker_pack": false,
-      "stickers": "15"
-    },
-    {
-      "identifier": "lpf2023f21b",
-      "name": "vs Instituto (2)",
-      "animated_sticker_pack": false,
-      "stickers": "15"
-    },
-    {
-      "identifier": "lpf2023f19",
-      "name": "vs Defensa y Justicia",
-      "animated_sticker_pack": false,
-      "stickers": "27"
-    },
-    {
-      "identifier": "lpf2023f20",
-      "name": "vs Banfield",
-      "animated_sticker_pack": false,
-      "stickers": "24"
-    },
-    {
-      "identifier": "rodrigoaliendro1",
-      "name": "Rodrigo Aliendro",
-      "animated_sticker_pack": false,
-      "stickers": "22"
-    },
-    {
-      "identifier": "julianalvarez3",
-      "name": "Julián Álvarez 22-23",
-      "animated_sticker_pack": false,
-      "stickers": "12"
-    },
-    {
-      "identifier": "libertadores2023fg5",
-      "name": "vs Fluminense",
-      "animated_sticker_pack": false,
-      "stickers": "17"
-    },
-    {
-      "identifier": "lpf2023f18",
-      "name": "vs Velez Sarsfield",
-      "animated_sticker_pack": false,
-      "stickers": "17"
-    },
-    {
-      "identifier": "gallardoeterno",
-      "name": "Gallardo Eterno",
-      "animated_sticker_pack": false,
-      "stickers": "14"
-    },
-    {
-      "identifier": "lpf2023f17",
-      "name": "vs Platense",
-      "animated_sticker_pack": false,
-      "stickers": "21"
-    },
-    {
-      "identifier": "lpf2023f14d",
-      "name": "vs Boca (4)",
-      "animated_sticker_pack": false,
-      "stickers": "16"
-    },
-    {
-      "identifier": "lpf2023f14c",
-      "name": "vs Boca (3)",
-      "animated_sticker_pack": false,
-      "stickers": "19"
-    },
-    {
-      "identifier": "lpf2023f14a",
-      "name": "vs Boca (1)",
-      "animated_sticker_pack": false,
-      "stickers": "21"
-    },
-    {
-      "identifier": "lpf2023f14b",
-      "name": "vs Boca (2)",
-      "animated_sticker_pack": false,
-      "stickers": "16"
-    },
-    {
-      "identifier": "preclasico2023",
-      "name": "Previa Super (1)",
-      "animated_sticker_pack": false,
-      "stickers": "9"
-    },
-    {
-      "identifier": "preclasico2022",
-      "name": "Previa Super (2)",
-      "animated_sticker_pack": false,
-      "stickers": "13"
-    },
-    {
-      "identifier": "gallomillo1",
-      "name": "Gallo Animado",
-      "animated_sticker_pack": true,
-      "stickers": "14"
-    },
-    {
-      "identifier": "camiseta2324c",
-      "name": "Tercer Camiseta 23-24",
-      "animated_sticker_pack": false,
-      "stickers": "16"
-    },
-    {
-      "identifier": "lpf2023f13a",
-      "name": "vs Independiente (1)",
-      "animated_sticker_pack": false,
-      "stickers": "16"
-    },
-    {
-      "identifier": "lpf2023f13b",
-      "name": "vs Independiente (2)",
-      "animated_sticker_pack": false,
-      "stickers": "16"
-    },
-    {
-      "identifier": "luisitocomunica1",
-      "name": "Luisito Comunica",
-      "animated_sticker_pack": false,
-      "stickers": "9"
-    },
-    {
-      "identifier": "libertadores2023fg2a",
-      "name": "vs Sp Cristal (1)",
-      "animated_sticker_pack": false,
-      "stickers": "17"
-    },
-    {
-      "identifier": "libertadores2023fg2b",
-      "name": "vs Sp Cristal (2)",
-      "animated_sticker_pack": false,
-      "stickers": "17"
-    },
-    {
-      "identifier": "lpf2023f12",
-      "name": "vs Newells",
-      "animated_sticker_pack": false,
-      "stickers": "22"
-    },
-    {
-      "identifier": "lpf2023f11a",
-      "name": "vs Gimnasia LP (1)",
-      "animated_sticker_pack": false,
-      "stickers": "15"
-    },
-    {
-      "identifier": "lpf2023f11b",
-      "name": "vs Gimnasia LP (2)",
-      "animated_sticker_pack": false,
-      "stickers": "15"
-    },
-    {
-      "identifier": "lpf2023f10a",
-      "name": "vs Huracán (1)",
-      "animated_sticker_pack": false,
-      "stickers": "20"
-    },
-    {
-      "identifier": "lpf2023f10b",
-      "name": "vs Huracán (2)",
-      "animated_sticker_pack": false,
-      "stickers": "20"
-    },
-    {
-      "identifier": "betoalonso1",
-      "name": "Beto Alonso",
-      "animated_sticker_pack": false,
-      "stickers": "23"
-    },
-    {
-      "identifier": "lpf2023f9",
-      "name": "vs Union",
-      "animated_sticker_pack": false,
-      "stickers": "28"
-    },
-    {
-      "identifier": "amistoso2023b",
-      "name": "vs Universidad Chile",
-      "animated_sticker_pack": false,
-      "stickers": "21"
-    },
-    {
-      "identifier": "lafiestadelcampeon1",
-      "name": "La Fiesta del Campeón (1)",
-      "animated_sticker_pack": false,
-      "stickers": "24"
-    },
-    {
-      "identifier": "lafiestadelcampeon2",
-      "name": "La Fiesta del Campeón (2)",
-      "animated_sticker_pack": false,
-      "stickers": "23"
-    },
-    {
-      "identifier": "lpf2023f8",
-      "name": "vs Sarmiento",
-      "animated_sticker_pack": false,
-      "stickers": "25"
-    },
-    {
-      "identifier": "lucasbeltran1",
-      "name": "Lucas Beltran (1)",
-      "animated_sticker_pack": false,
-      "stickers": "18"
-    },
-    {
-      "identifier": "lucasbeltran2",
-      "name": "Lucas Beltran (2)",
-      "animated_sticker_pack": false,
-      "stickers": "18"
-    },
-    {
-      "identifier": "lpf2023f7",
-      "name": "vs Godoy Cruz",
-      "animated_sticker_pack": false,
-      "stickers": "28"
-    },
-    {
-      "identifier": "copaargentina2023f32",
-      "name": "vs Racing Cordoba",
-      "animated_sticker_pack": false,
-      "stickers": "18"
-    },
-    {
-      "identifier": "lpf2023f6",
-      "name": "vs Lanus",
-      "animated_sticker_pack": false,
-      "stickers": "20"
-    },
-    {
-      "identifier": "torneocampeones2023s1",
-      "name": "vs Banfield",
-      "animated_sticker_pack": false,
-      "stickers": "20"
-    },
-    {
-      "identifier": "club1",
-      "name": "Club (1)",
-      "animated_sticker_pack": false,
-      "stickers": "16"
-    },
-    {
-      "identifier": "club2",
-      "name": "Club (2)",
-      "animated_sticker_pack": false,
-      "stickers": "16"
-    },
-    {
-      "identifier": "lpf2023f4",
-      "name": "vs Tigre",
-      "animated_sticker_pack": false,
-      "stickers": "21"
-    },
-    {
-      "identifier": "lpf2023f3",
-      "name": "vs Argentinos Jrs",
-      "animated_sticker_pack": false,
-      "stickers": "23"
-    },
-    {
-      "identifier": "salomonrondon1",
-      "name": "Salomón Rondón",
-      "animated_sticker_pack": false,
-      "stickers": "14"
-    },
-    {
-      "identifier": "lpf2023f1",
-      "name": "vs Central Córdoba",
-      "animated_sticker_pack": false,
-      "stickers": "18"
-    },
-    {
-      "identifier": "amistosos2023a",
-      "name": "Pretemporada 2023 (1)",
-      "animated_sticker_pack": false,
-      "stickers": "22"
-    },
-    {
-      "identifier": "amistosos2023b",
-      "name": "Pretemporada 2023 (2)",
-      "animated_sticker_pack": false,
-      "stickers": "22"
-    },
-    {
-      "identifier": "navidadargentina",
-      "name": "Navidad Argentina",
-      "animated_sticker_pack": true,
-      "stickers": "8"
-    },
-    {
-      "identifier": "nachofernandez1",
-      "name": "Nacho Fernandez",
-      "animated_sticker_pack": false,
-      "stickers": "26"
-    },
-    {
-      "identifier": "navidad3",
-      "name": "Feliz Navidad (3)",
-      "animated_sticker_pack": false,
-      "stickers": "12"
-    },
-    {
-      "identifier": "navidad2",
-      "name": "Feliz Navidad (2)",
-      "animated_sticker_pack": false,
-      "stickers": "21"
-    },
-    {
-      "identifier": "navidad",
-      "name": "Feliz Navidad (1)",
-      "animated_sticker_pack": false,
-      "stickers": "10"
-    },
-    {
-      "identifier": "worldcup2022w10",
-      "name": "Argentina Campeón (10)",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "worldcup2022w11",
-      "name": "Argentina Campeón (11)",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "worldcup2022w12",
-      "name": "Argentina Campeón (12)",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "worldcup2022w5",
-      "name": "Argentina Campeón (5)",
-      "animated_sticker_pack": true,
-      "stickers": "10"
-    },
-    {
-      "identifier": "worldcup2022w6",
-      "name": "Argentina Campeón (6)",
-      "animated_sticker_pack": true,
-      "stickers": "10"
-    },
-    {
-      "identifier": "worldcup2022w7",
-      "name": "Argentina Campeón (7)",
-      "animated_sticker_pack": false,
-      "stickers": "20"
-    },
-    {
-      "identifier": "worldcup2022w8",
-      "name": "Argentina Campeón (8)",
-      "animated_sticker_pack": false,
-      "stickers": "20"
-    },
-    {
-      "identifier": "worldcup2022w9",
-      "name": "Argentina Campeón (9)",
-      "animated_sticker_pack": false,
-      "stickers": "20"
-    },
-    {
-      "identifier": "worldcup2022w4",
-      "name": "Argentina Campeón (4)",
-      "animated_sticker_pack": false,
-      "stickers": "16"
-    },
-    {
-      "identifier": "worldcup2022w3",
-      "name": "Argentina Campeón (3)",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "worldcup2022w2",
-      "name": "Argentina Campeón (2)",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "worldcup2022w1",
-      "name": "Argentina Campeón (1)",
-      "animated_sticker_pack": false,
-      "stickers": "14"
-    },
-    {
-      "identifier": "worldcup2022s1a",
-      "name": "Argentina vs Croacia (1)",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "worldcup2022s1b",
-      "name": "Argentina vs Croatia (2)",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "worldcup2022s1c",
-      "name": "Argentina vs Croacia (3)",
-      "animated_sticker_pack": true,
-      "stickers": "9"
-    },
-    {
-      "identifier": "matiaskranevitter1",
-      "name": "Matías Kranevitter",
-      "animated_sticker_pack": false,
-      "stickers": "9"
-    },
-    {
-      "identifier": "martindemichelis1",
-      "name": "Martín Demichelis",
-      "animated_sticker_pack": false,
-      "stickers": "10"
-    },
-    {
-      "identifier": "worldcup2022q2e",
-      "name": "Argentina vs Holanda (5)",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "worldcup2022q2a",
-      "name": "Argentina vs Holanda (1)",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "worldcup2022q2b",
-      "name": "Argentina vs Holanda (2)",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "worldcup2022q2c",
-      "name": "Argentina vs Holanda (3)",
-      "animated_sticker_pack": true,
-      "stickers": "10"
-    },
-    {
-      "identifier": "worldcup2022q2d",
-      "name": "Argentina vs Holanda (4)",
-      "animated_sticker_pack": true,
-      "stickers": "10"
-    },
-    {
-      "identifier": "aniversario4",
-      "name": "4 años de Madrid",
-      "animated_sticker_pack": false,
-      "stickers": "12"
-    },
-    {
-      "identifier": "worldcup2022dibumartinez",
-      "name": "Dibu Martinez",
-      "animated_sticker_pack": false,
-      "stickers": "27"
-    },
-    {
-      "identifier": "aniversario3",
-      "name": "Madrid 3 Años",
-      "animated_sticker_pack": false,
-      "stickers": "11"
-    },
-    {
-      "identifier": "aniversario2",
-      "name": "Segundo Aniversario",
-      "animated_sticker_pack": false,
-      "stickers": "25"
-    },
-    {
-      "identifier": "aniversario",
-      "name": "Pack Aniversario 9/12/2018",
-      "animated_sticker_pack": false,
-      "stickers": "17"
-    },
-    {
-      "identifier": "worldcup2022o2a",
-      "name": "Argentina vs Australia (1)",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "worldcup2022o2b",
-      "name": "Argentina vs Australia (2)",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "worldcup2022o2c",
-      "name": "Argentina vs Australia (3)",
-      "animated_sticker_pack": true,
-      "stickers": "9"
-    },
-    {
-      "identifier": "worldcup2022GCpolandvsargentina1",
-      "name": "Argentina vs Polonia (1)",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "worldcup2022GCpolandvsargentina2",
-      "name": "Argentina vs Polonia (2)",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "worldcup2022GCpolandvsargentina3",
-      "name": "Argentina vs Polonia (3)",
-      "animated_sticker_pack": true,
-      "stickers": "7"
-    },
-    {
-      "identifier": "worldcup2022GCargentinavsmexico1",
-      "name": "Argentina vs Mexico (1)",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "worldcup2022GCargentinavsmexico2",
-      "name": "Argentina vs Mexico (2)",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "worldcup2022GCargentinavsmexico3",
-      "name": "Argentina vs Mexico (3)",
-      "animated_sticker_pack": true,
-      "stickers": "11"
-    },
-    {
-      "identifier": "worldcup2022ARgol",
-      "name": "Argentina Gol",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "worldcup2022ARGanimados",
-      "name": "Argentina Animados",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "worldcup2022GCargentinavssaudiarabia",
-      "name": "Argentina vs Saudi Arabia",
-      "animated_sticker_pack": false,
-      "stickers": "21"
-    },
-    {
-      "identifier": "worldcup2022argentina2",
-      "name": "Argentina Qatar 1",
-      "animated_sticker_pack": false,
-      "stickers": "27"
-    },
-    {
-      "identifier": "worldcup2022argentina3",
-      "name": "Argentina Qatar 2",
-      "animated_sticker_pack": false,
-      "stickers": "27"
-    },
-    {
-      "identifier": "worldcup2022leomessi3",
-      "name": "Leo Messi",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "worldcup2022julianalvarez",
-      "name": "Julián Álvarez (3)",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "worldcup2022enzofernandez",
-      "name": "Enzo Fernandez",
-      "animated_sticker_pack": false,
-      "stickers": "26"
-    },
-    {
-      "identifier": "worldcup2022exequielpalacios",
-      "name": "Exequiel Palacios",
-      "animated_sticker_pack": false,
-      "stickers": "25"
-    },
-    {
-      "identifier": "worldcup2022francoarmani",
-      "name": "Franco Armani",
-      "animated_sticker_pack": false,
-      "stickers": "23"
-    },
-    {
-      "identifier": "worldcup2022gonzalomontiel",
-      "name": "Gonzalo Montiel",
-      "animated_sticker_pack": false,
-      "stickers": "23"
-    },
-    {
-      "identifier": "worldcup2022germanpezzella",
-      "name": "German Pezzella",
-      "animated_sticker_pack": false,
-      "stickers": "19"
-    },
-    {
-      "identifier": "worldcup2022lionelscaloni",
-      "name": "Lionel Scaloni",
-      "animated_sticker_pack": false,
-      "stickers": "14"
-    },
-    {
-      "identifier": "worldcup2022guidorodriguez",
-      "name": "Guido Rodriguez",
-      "animated_sticker_pack": false,
-      "stickers": "21"
-    },
-    {
-      "identifier": "worldcup2022alexismacallister",
-      "name": "Alexis Mac Allister",
-      "animated_sticker_pack": false,
-      "stickers": "18"
-    },
-    {
-      "identifier": "worldcup2022angeldimaria",
-      "name": "Angel Di Maria",
-      "animated_sticker_pack": false,
-      "stickers": "25"
-    },
-    {
-      "identifier": "worldcup2022cutiromero",
-      "name": "Cuti Romero",
-      "animated_sticker_pack": false,
-      "stickers": "23"
-    },
-    {
-      "identifier": "worldcup2022dibumartinez",
-      "name": "Dibu Martinez",
-      "animated_sticker_pack": false,
-      "stickers": "27"
-    },
-    {
-      "identifier": "worldcup2022lautaromartinez",
-      "name": "Lautaro Martinez",
-      "animated_sticker_pack": false,
-      "stickers": "24"
-    },
-    {
-      "identifier": "worldcup2022leandroparedes",
-      "name": "Leandro Paredes",
-      "animated_sticker_pack": false,
-      "stickers": "23"
-    },
-    {
-      "identifier": "worldcup2022marcosacuna",
-      "name": "Marcos Acuña",
-      "animated_sticker_pack": false,
-      "stickers": "21"
-    },
-    {
-      "identifier": "worldcup2022nahuelmolina",
-      "name": "Nahuel Molina",
-      "animated_sticker_pack": false,
-      "stickers": "21"
-    },
-    {
-      "identifier": "worldcup2022nicolasotamendi",
-      "name": "Nicolas Otamendi",
-      "animated_sticker_pack": false,
-      "stickers": "17"
-    },
-    {
-      "identifier": "worldcup2022nicolastagliafico",
-      "name": "Nicolas Tagliafico",
-      "animated_sticker_pack": false,
-      "stickers": "28"
-    },
-    {
-      "identifier": "worldcup2022papugomez",
-      "name": "Papu Gomez",
-      "animated_sticker_pack": false,
-      "stickers": "20"
-    },
-    {
-      "identifier": "worldcup2022paulodybala",
-      "name": "Paulo Dybala",
-      "animated_sticker_pack": false,
-      "stickers": "25"
-    },
-    {
-      "identifier": "worldcup2022rodrigodepaul",
-      "name": "Rodrigo De Paul",
-      "animated_sticker_pack": false,
-      "stickers": "17"
-    },
-    {
-      "identifier": "worldcup2022angelcorrea",
-      "name": "Angel Correa",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "worldcup2022geronimorulli",
-      "name": "Geronimo Rulli",
-      "animated_sticker_pack": false,
-      "stickers": "21"
-    },
-    {
-      "identifier": "worldcup2022juanfoyth",
-      "name": "Juan Foyth",
-      "animated_sticker_pack": false,
-      "stickers": "21"
-    },
-    {
-      "identifier": "worldcup2022thiagoalmada",
-      "name": "Thiago Almada",
-      "animated_sticker_pack": false,
-      "stickers": "22"
-    },
-    {
-      "identifier": "lpf2022f27",
-      "name": "vs Racing",
-      "animated_sticker_pack": false,
-      "stickers": "13"
-    },
-    {
-      "identifier": "gallardoadios1",
-      "name": "Adios Gallardo",
-      "animated_sticker_pack": false,
-      "stickers": "21"
-    },
-    {
-      "identifier": "gallardogracias1",
-      "name": "Gracias Gallardo (1)",
-      "animated_sticker_pack": false,
-      "stickers": "14"
-    },
-    {
-      "identifier": "gallardogracias2",
-      "name": "Gracias Gallardo (2)",
-      "animated_sticker_pack": false,
-      "stickers": "13"
-    },
-    {
-      "identifier": "gallardo2022",
-      "name": "Gallardo 2022",
-      "animated_sticker_pack": false,
-      "stickers": "9"
-    },
-    {
-      "identifier": "galladonoseva",
-      "name": "Gallardo No se va",
-      "animated_sticker_pack": false,
-      "stickers": "12"
-    },
-    {
-      "identifier": "gallardo4",
-      "name": "Marcelo Gallardo (4)",
-      "animated_sticker_pack": true,
-      "stickers": "10"
-    },
-    {
-      "identifier": "gallardo3",
-      "name": "Gallardo Final 2019",
-      "animated_sticker_pack": false,
-      "stickers": "20"
-    },
-    {
-      "identifier": "gallardo2",
-      "name": "Marcelo Gallardo (2)",
-      "animated_sticker_pack": false,
-      "stickers": "18"
-    },
-    {
-      "identifier": "gallardo1",
-      "name": "Marcelo Gallardo (1)",
-      "animated_sticker_pack": false,
-      "stickers": "13"
-    },
-    {
-      "identifier": "lpf2022f25",
-      "name": "vs Platense",
-      "animated_sticker_pack": false,
-      "stickers": "23"
-    },
-    {
-      "identifier": "lpf2022f24",
-      "name": "vs Patronato",
-      "animated_sticker_pack": false,
-      "stickers": "22"
-    },
-    {
-      "identifier": "lpf2022f23",
-      "name": "vs Estudiantes",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "lpf2022f22",
-      "name": "vs Argentinos Jrs",
-      "animated_sticker_pack": false,
-      "stickers": "24"
-    },
-    {
-      "identifier": "diadelhincha1",
-      "name": "Día del Hincha (1)",
-      "animated_sticker_pack": false,
-      "stickers": "10"
-    },
-    {
-      "identifier": "diadelhincha2",
-      "name": "Dia del Hincha (2)",
-      "animated_sticker_pack": false,
-      "stickers": "15"
-    },
-    {
-      "identifier": "despedidaponzio",
-      "name": "Capitan Eterno",
-      "animated_sticker_pack": false,
-      "stickers": "12"
-    },
-    {
-      "identifier": "graciasponzio",
-      "name": "Gracias Ponzio",
-      "animated_sticker_pack": false,
-      "stickers": "12"
-    },
-    {
-      "identifier": "lpf2022f20",
-      "name": "vs San Lorenzo",
-      "animated_sticker_pack": false,
-      "stickers": "24"
-    },
-    {
-      "identifier": "golessuperclasico1",
-      "name": "Goles Superclásico (1)",
-      "animated_sticker_pack": false,
-      "stickers": "18"
-    },
-    {
-      "identifier": "golessuperclasico2",
-      "name": "Goles Superclásico (2)",
-      "animated_sticker_pack": false,
-      "stickers": "18"
-    },
-    {
-      "identifier": "preclasico2022",
-      "name": "Previa Superclásico (2)",
-      "animated_sticker_pack": false,
-      "stickers": "13"
-    },
-    {
-      "identifier": "superclasico1",
-      "name": "Previa Superclásico (1)",
-      "animated_sticker_pack": true,
-      "stickers": "9"
-    },
-    {
-      "identifier": "lpf2022f17",
-      "name": "vs Barracas Central",
-      "animated_sticker_pack": false,
-      "stickers": "26"
-    },
-    {
-      "identifier": "copaargentina22f8",
-      "name": "vs Defensa y Justicia",
-      "animated_sticker_pack": false,
-      "stickers": "18"
-    },
-    {
-      "identifier": "lpf2022f16",
-      "name": "vs Tigre",
-      "animated_sticker_pack": false,
-      "stickers": "20"
-    },
-    {
-      "identifier": "lpf2022f15",
-      "name": "vs C. Córdoba",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "lpf2022f13",
-      "name": "vs Newells",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "camiseta2023",
-      "name": "Nueva Camiseta",
-      "animated_sticker_pack": false,
-      "stickers": "20"
-    },
-    {
-      "identifier": "equipo2023",
-      "name": "Plantel 2023",
-      "animated_sticker_pack": false,
-      "stickers": "29"
-    },
-    {
-      "identifier": "lpf2022f12",
-      "name": "vs Independiente",
-      "animated_sticker_pack": false,
-      "stickers": "20"
-    },
-    {
-      "identifier": "memesriver1",
-      "name": "Memes 1",
-      "animated_sticker_pack": false,
-      "stickers": "15"
-    },
-    {
-      "identifier": "memesriver2",
-      "name": "Memes 2",
-      "animated_sticker_pack": false,
-      "stickers": "15"
-    },
-    {
-      "identifier": "animados2",
-      "name": "vs Aldosivi (2)",
-      "animated_sticker_pack": true,
-      "stickers": "9"
-    },
-    {
-      "identifier": "lpf2022f10",
-      "name": "vs Aldosivi",
-      "animated_sticker_pack": false,
-      "stickers": "20"
-    },
-    {
-      "identifier": "lpf2022f9",
-      "name": "vs Gimnasia LP",
-      "animated_sticker_pack": false,
-      "stickers": "28"
-    },
-    {
-      "identifier": "copaargentina22f16",
-      "name": "vs Barracas",
-      "animated_sticker_pack": false,
-      "stickers": "20"
-    },
-    {
-      "identifier": "miguelborja1",
-      "name": "Bienvenido Borja",
-      "animated_sticker_pack": false,
-      "stickers": "9"
-    },
-    {
-      "identifier": "juliancity",
-      "name": "Julián City",
-      "animated_sticker_pack": false,
-      "stickers": "17"
-    },
-    {
-      "identifier": "adiosjulian",
-      "name": "Adios Julián",
-      "animated_sticker_pack": false,
-      "stickers": "27"
-    },
-    {
-      "identifier": "lpf2022f5",
-      "name": "vs Lanus",
-      "animated_sticker_pack": false,
-      "stickers": "24"
-    },
-    {
-      "identifier": "lpf2022f4",
-      "name": "vs Unión",
-      "animated_sticker_pack": false,
-      "stickers": "23"
-    },
-    {
-      "identifier": "lpf2022f2",
-      "name": "vs Atlético Tucumán",
-      "animated_sticker_pack": false,
-      "stickers": "19"
-    },
-    {
-      "identifier": "libertadores2022fg6",
-      "name": "vs Alianza Lima (2)",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "121aniversario",
-      "name": "Aniversario River",
-      "animated_sticker_pack": false,
-      "stickers": "8"
-    },
-    {
-      "identifier": "matiasalmeyda1",
-      "name": "Matias Almeyda",
-      "animated_sticker_pack": false,
-      "stickers": "25"
-    },
-    {
-      "identifier": "libertadores2022fg5a1",
-      "name": "vs Colo Colo (3)",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "libertadores2022fg5",
-      "name": "vs Colo Colo (2)",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "porelmundo1",
-      "name": "Por el Mundo (1)",
-      "animated_sticker_pack": false,
-      "stickers": "28"
-    },
-    {
-      "identifier": "porelmundo2",
-      "name": "Por el Mundo (2)",
-      "animated_sticker_pack": false,
-      "stickers": "27"
-    },
-    {
-      "identifier": "copaliga2022cf1",
-      "name": "vs Tigre",
-      "animated_sticker_pack": false,
-      "stickers": "20"
-    },
-    {
-      "identifier": "copaliga2022f14",
-      "name": "vs Platense",
-      "animated_sticker_pack": false,
-      "stickers": "24"
-    },
-    {
-      "identifier": "libertadores2022fg4",
-      "name": "vs Fortaleza (2)",
-      "animated_sticker_pack": false,
-      "stickers": "26"
-    },
-    {
-      "identifier": "copaliga2022f13",
-      "name": "vs Sarmiento (1)",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "copaliga2022f13a1",
-      "name": "vs Sarmiento (2)",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "filiales2",
-      "name": "Filiales 2",
-      "animated_sticker_pack": false,
-      "stickers": "24"
-    },
-    {
-      "identifier": "libertadores2022fg3",
-      "name": "vs Colo Colo",
-      "animated_sticker_pack": false,
-      "stickers": "22"
-    },
-    {
-      "identifier": "copaliga2022f12",
-      "name": "vs Atl. Tucuman",
-      "animated_sticker_pack": false,
-      "stickers": "21"
-    },
-    {
-      "identifier": "filiales1",
-      "name": "Filiales 1",
-      "animated_sticker_pack": false,
-      "stickers": "23"
-    },
-    {
-      "identifier": "andresdalessandro1",
-      "name": "Andres D Alessandro",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "copaliga2022f10",
-      "name": "vs Banfield",
-      "animated_sticker_pack": false,
-      "stickers": "20"
-    },
-    {
-      "identifier": "enzofernandez1",
-      "name": "Enzo Fernandez",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "felicespascuas1",
-      "name": "Felices Pascuas",
-      "animated_sticker_pack": false,
-      "stickers": "12"
-    },
-    {
-      "identifier": "libertadores2022fg2",
-      "name": "vs Fortaleza",
-      "animated_sticker_pack": false,
-      "stickers": "20"
-    },
-    {
-      "identifier": "copaliga2022f9",
-      "name": "vs Argentinos",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "libertadores2022fg1",
-      "name": "vs Alianza Lima",
-      "animated_sticker_pack": false,
-      "stickers": "15"
-    },
-    {
-      "identifier": "copaliga2022f8",
-      "name": "vs Defensa",
-      "animated_sticker_pack": false,
-      "stickers": "18"
-    },
-    {
-      "identifier": "francoarmani1",
-      "name": "Franco Armani",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "julianalvarez2",
-      "name": "Julián Álvarez (2)",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "equipo2022",
-      "name": "Equipo 2022",
-      "animated_sticker_pack": false,
-      "stickers": "28"
-    },
-    {
-      "identifier": "copaargentina22f32",
-      "name": "vs Laferrere (1)",
-      "animated_sticker_pack": false,
-      "stickers": "17"
-    },
-    {
-      "identifier": "copaargentina22f32a1",
-      "name": "vs Laferrere (2)",
-      "animated_sticker_pack": true,
-      "stickers": "14"
-    },
-    {
-      "identifier": "copaliga2022f5",
-      "name": "vs San Lorenzo",
-      "animated_sticker_pack": false,
-      "stickers": "19"
-    },
-    {
-      "identifier": "copaliga2022f4",
-      "name": "vs Racing Club",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "enzoperez2",
-      "name": "Enzo Perez (2)",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "enzoperez1",
-      "name": "Enzo Perez (1)",
-      "animated_sticker_pack": false,
-      "stickers": "21"
-    },
-    {
-      "identifier": "gastadas2022a",
-      "name": "Gastadas 2022",
-      "animated_sticker_pack": false,
-      "stickers": "25"
-    },
-    {
-      "identifier": "copaliga2022f3",
-      "name": "vs Newells",
-      "animated_sticker_pack": false,
-      "stickers": "22"
-    },
-    {
-      "identifier": "copaliga2022f2",
-      "name": "vs Patronato (1)",
-      "animated_sticker_pack": false,
-      "stickers": "26"
-    },
-    {
-      "identifier": "copaliga2022f2a1",
-      "name": "vs Patronato (2)",
-      "animated_sticker_pack": true,
-      "stickers": "9"
-    },
-    {
-      "identifier": "14febrero",
-      "name": "Feliz San Valentin",
-      "animated_sticker_pack": false,
-      "stickers": "7"
-    },
-    {
-      "identifier": "juanferanimados",
-      "name": "Juanfer Animados",
-      "animated_sticker_pack": true,
-      "stickers": "9"
-    },
-    {
-      "identifier": "amistoso2022a",
-      "name": "vs Platense",
-      "animated_sticker_pack": false,
-      "stickers": "22"
-    },
-    {
-      "identifier": "davidtrezeguet1",
-      "name": "David Trezeguet",
-      "animated_sticker_pack": false,
-      "stickers": "27"
-    },
-    {
-      "identifier": "fernandocavenaghi1",
-      "name": "Fernando Cavenaghi",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "juanferregreso",
-      "name": "JuanFer Regresa",
-      "animated_sticker_pack": false,
-      "stickers": "22"
-    },
-    {
-      "identifier": "refuerzos2022",
-      "name": "Refuerzos 2022",
-      "animated_sticker_pack": false,
-      "stickers": "9"
-    },
-    {
-      "identifier": "newyear2022",
-      "name": "Feliz Año (2)",
-      "animated_sticker_pack": false,
-      "stickers": "11"
-    },
-    {
-      "identifier": "newyear1",
-      "name": "Feliz Año (1)",
-      "animated_sticker_pack": false,
-      "stickers": "10"
-    },
-    {
-      "identifier": "torneocampeones2021",
-      "name": "Campeones 2021 (1)",
-      "animated_sticker_pack": false,
-      "stickers": "15"
-    },
-    {
-      "identifier": "torneocampeones2021b",
-      "name": "Campeones 2021 (2)",
-      "animated_sticker_pack": false,
-      "stickers": "17"
-    },
-    {
-      "identifier": "aniversario3",
-      "name": "Madrid 3 Años",
-      "animated_sticker_pack": false,
-      "stickers": "11"
-    },
-    {
-      "identifier": "aniversario2",
-      "name": "Segundo Aniversario",
-      "animated_sticker_pack": false,
-      "stickers": "25"
-    },
-    {
-      "identifier": "aniversario1",
-      "name": "Aniversario Madrid",
-      "animated_sticker_pack": false,
-      "stickers": "17"
-    },
-    {
-      "identifier": "graciasponzio",
-      "name": "Gracias Ponzio",
-      "animated_sticker_pack": false,
-      "stickers": "12"
-    },
-    {
-      "identifier": "lpf2021f23",
-      "name": "vs Rosario Central",
-      "animated_sticker_pack": false,
-      "stickers": "13"
-    },
-    {
-      "identifier": "lpf2021ca1",
-      "name": "River Campeon 2021",
-      "animated_sticker_pack": true,
-      "stickers": "10"
-    },
-    {
-      "identifier": "lpf2021c1",
-      "name": "River Campeon 2021",
-      "animated_sticker_pack": false,
-      "stickers": "24"
-    },
-    {
-      "identifier": "lpf2021f22",
-      "name": "vs Racing Club",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "lpf2021f21",
-      "name": "vs Platense (1)",
-      "animated_sticker_pack": false,
-      "stickers": "20"
-    },
-    {
-      "identifier": "lpf2021f21a1",
-      "name": "vs Platense (2)",
-      "animated_sticker_pack": true,
-      "stickers": "9"
-    },
-    {
-      "identifier": "lpf2021f20",
-      "name": "vs Patronato (1)",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "lpf2021f20a1",
-      "name": "vs Patronato (2)",
-      "animated_sticker_pack": true,
-      "stickers": "10"
-    },
-    {
-      "identifier": "paulodiaz",
-      "name": "Paulo Diaz",
-      "animated_sticker_pack": false,
-      "stickers": "15"
-    },
-    {
-      "identifier": "gol2021a1",
-      "name": "Gol Animado 2021",
-      "animated_sticker_pack": true,
-      "stickers": "8"
-    },
-    {
-      "identifier": "lpf2021f18a1",
-      "name": "vs Argentinos Jrs (2)",
-      "animated_sticker_pack": true,
-      "stickers": "8"
-    },
-    {
-      "identifier": "lpf2021f18",
-      "name": "vs Argentinos Jrs (1)",
-      "animated_sticker_pack": false,
-      "stickers": "28"
-    },
-    {
-      "identifier": "julianalvarez1",
-      "name": "Julián Álvarez (1)",
-      "animated_sticker_pack": false,
-      "stickers": "15"
-    },
-    {
-      "identifier": "lpf2021f17",
-      "name": "vs Talleres",
-      "animated_sticker_pack": false,
-      "stickers": "19"
-    },
-    {
-      "identifier": "lpf2021f16",
-      "name": "vs San Lorenzo",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "leyendas3",
-      "name": "Leyendas (3)",
-      "animated_sticker_pack": false,
-      "stickers": "22"
-    },
-    {
-      "identifier": "leyendas4",
-      "name": "Leyendas (4)",
-      "animated_sticker_pack": false,
-      "stickers": "20"
-    },
-    {
-      "identifier": "tecnicos1",
-      "name": "Tecnicos",
-      "animated_sticker_pack": false,
-      "stickers": "22"
-    },
-    {
-      "identifier": "lpf2021f15",
-      "name": "vs Banfield",
-      "animated_sticker_pack": false,
-      "stickers": "20"
-    },
-    {
-      "identifier": "gastadasclasico2021b",
-      "name": "Gastadas Superclasico (2)",
-      "animated_sticker_pack": false,
-      "stickers": "15"
-    },
-    {
-      "identifier": "gastadasclasico2021",
-      "name": "Gastadas Superclasico (1)",
-      "animated_sticker_pack": false,
-      "stickers": "16"
-    },
-    {
-      "identifier": "lpf2021f14",
-      "name": "vs Boca Juniors",
-      "animated_sticker_pack": false,
-      "stickers": "25"
-    },
-    {
-      "identifier": "preclasico2021",
-      "name": "Previa Superclasico",
-      "animated_sticker_pack": false,
-      "stickers": "19"
-    },
-    {
-      "identifier": "lpf2021f13",
-      "name": "vs Central Cordoba",
-      "animated_sticker_pack": false,
-      "stickers": "15"
-    },
-    {
-      "identifier": "lpf2021f12",
-      "name": "vs Arsenal",
-      "animated_sticker_pack": false,
-      "stickers": "14"
-    },
-    {
-      "identifier": "lpf2021f11",
-      "name": "vs Newells",
-      "animated_sticker_pack": false,
-      "stickers": "16"
-    },
-    {
-      "identifier": "cuerpotecnico2021",
-      "name": "Cuerpo Tecnico 2021",
-      "animated_sticker_pack": false,
-      "stickers": "21"
-    },
-    {
-      "identifier": "jugadores2021",
-      "name": "Jugadores 2021",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "lpf2021f9",
-      "name": "vs Sarmiento",
-      "animated_sticker_pack": false,
-      "stickers": "16"
-    },
-    {
-      "identifier": "lpf2021f8",
-      "name": "vs Aldosivi",
-      "animated_sticker_pack": false,
-      "stickers": "16"
-    },
-    {
-      "identifier": "burritoortega1",
-      "name": "Burrito Ortega",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "lpf2021f6",
-      "name": "vs Velez",
-      "animated_sticker_pack": false,
-      "stickers": "20"
-    },
-    {
-      "identifier": "lpf2021f3",
-      "name": "vs Lanus",
-      "animated_sticker_pack": false,
-      "stickers": "21"
-    },
-    {
-      "identifier": "lpf2021f2",
-      "name": "vs Union",
-      "animated_sticker_pack": false,
-      "stickers": "17"
-    },
-    {
-      "identifier": "libertadores2021o2",
-      "name": "vs Argentinos Juniors",
-      "animated_sticker_pack": false,
-      "stickers": "20"
-    },
-    {
-      "identifier": "aniversario120",
-      "name": "Felices 120",
-      "animated_sticker_pack": false,
-      "stickers": "6"
-    },
-    {
-      "identifier": "libertadores2021fg5",
-      "name": "vs Indep. Sta Fe",
-      "animated_sticker_pack": false,
-      "stickers": "22"
-    },
-    {
-      "identifier": "libertadores2021p1",
-      "name": "Ataja Enzo",
-      "animated_sticker_pack": false,
-      "stickers": "7"
-    },
-    {
-      "identifier": "lpf2021fg13",
-      "name": "vs Aldosivi",
-      "animated_sticker_pack": false,
-      "stickers": "20"
-    },
-    {
-      "identifier": "festejos1",
-      "name": "Festejos 1",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "festejos2",
-      "name": "Festejos 2",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "libertadores2021fg2",
-      "name": "vs Junior",
-      "animated_sticker_pack": false,
-      "stickers": "12"
-    },
-    {
-      "identifier": "lpf2021fg10",
-      "name": "vs Central Cordoba",
-      "animated_sticker_pack": false,
-      "stickers": "13"
-    },
-    {
-      "identifier": "lpf2021fg9",
-      "name": "vs Colon",
-      "animated_sticker_pack": false,
-      "stickers": "14"
-    },
-    {
-      "identifier": "copaargentina21f16",
-      "name": "vs Atl Tucuman",
-      "animated_sticker_pack": false,
-      "stickers": "10"
-    },
-    {
-      "identifier": "francescoli1",
-      "name": "Enzo Francescoli",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "lpf2021fg6",
-      "name": "vs Godoy Cruz",
-      "animated_sticker_pack": false,
-      "stickers": "22"
-    },
-    {
-      "identifier": "supercopa2019b",
-      "name": "Festejo Supercopa",
-      "animated_sticker_pack": false,
-      "stickers": "20"
-    },
-    {
-      "identifier": "supercopa2019",
-      "name": "Supercopa 2019",
-      "animated_sticker_pack": false,
-      "stickers": "20"
-    },
-    {
-      "identifier": "lpf2021fg3",
-      "name": "vs Platense",
-      "animated_sticker_pack": false,
-      "stickers": "11"
-    },
-    {
-      "identifier": "equipo2021",
-      "name": "Stickers Equipo 2021",
-      "animated_sticker_pack": false,
-      "stickers": "28"
-    },
-    {
-      "identifier": "lpf2021fg2",
-      "name": "vs Rosario Central",
-      "animated_sticker_pack": false,
-      "stickers": "17"
-    },
-    {
-      "identifier": "sanvalentin",
-      "name": "San Valentin",
-      "animated_sticker_pack": false,
-      "stickers": "29"
-    },
-    {
-      "identifier": "copaargentina21f32",
-      "name": "vs Depro",
-      "animated_sticker_pack": false,
-      "stickers": "13"
-    },
-    {
-      "identifier": "anionuevo21",
-      "name": "Feliz 2021",
-      "animated_sticker_pack": false,
-      "stickers": "25"
-    },
-    {
-      "identifier": "lpf2020fc3",
-      "name": "vs Arsenal",
-      "animated_sticker_pack": false,
-      "stickers": "14"
-    },
-    {
-      "identifier": "lpf2020fc2",
-      "name": "vs Huracan",
-      "animated_sticker_pack": false,
-      "stickers": "11"
-    },
-    {
-      "identifier": "libertadores2020c2",
-      "name": "vs Nacional (2)",
-      "animated_sticker_pack": false,
-      "stickers": "29"
-    },
-    {
-      "identifier": "libertadores2020c1",
-      "name": "vs Nacional (1)",
-      "animated_sticker_pack": false,
-      "stickers": "18"
-    },
-    {
-      "identifier": "lpf2020fg6",
-      "name": "vs Godoy Cruz",
-      "animated_sticker_pack": false,
-      "stickers": "20"
-    },
-    {
-      "identifier": "libertadores2020o2",
-      "name": "vs Paranaense",
-      "animated_sticker_pack": false,
-      "stickers": "15"
-    },
-    {
-      "identifier": "lpf2020fg5",
-      "name": "vs Central",
-      "animated_sticker_pack": false,
-      "stickers": "9"
-    },
-    {
-      "identifier": "lpf2020fg4",
-      "name": "vs Banfield",
-      "animated_sticker_pack": false,
-      "stickers": "17"
-    },
-    {
-      "identifier": "lpf2020fg3",
-      "name": "vs Godoy Cruz",
-      "animated_sticker_pack": false,
-      "stickers": "14"
-    },
-    {
-      "identifier": "lpf2020fg2",
-      "name": "vs Central",
-      "animated_sticker_pack": false,
-      "stickers": "17"
-    },
-    {
-      "identifier": "libertadores2020fg6",
-      "name": "vs Liga Quito",
-      "animated_sticker_pack": false,
-      "stickers": "18"
-    },
-    {
-      "identifier": "libertadores2020fg5",
-      "name": "vs San Pablo",
-      "animated_sticker_pack": false,
-      "stickers": "25"
-    },
-    {
-      "identifier": "gol2",
-      "name": "Gol (2)",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "libertadores2020fg4",
-      "name": "vs Binacional",
-      "animated_sticker_pack": false,
-      "stickers": "15"
-    },
-    {
-      "identifier": "libertadores2020fg3",
-      "name": "vs San Pablo",
-      "animated_sticker_pack": false,
-      "stickers": "14"
-    },
-    {
-      "identifier": "animados1",
-      "name": "Pack Animados 1",
-      "animated_sticker_pack": true,
-      "stickers": "19"
-    },
-    {
-      "identifier": "emojis1",
-      "name": "Pack Emojis",
-      "animated_sticker_pack": false,
-      "stickers": "17"
-    },
-    {
-      "identifier": "poster1",
-      "name": "Pack Poster",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "funeral",
-      "name": "Pack Funeral",
-      "animated_sticker_pack": false,
-      "stickers": "16"
-    },
-    {
-      "identifier": "libertadores2020a",
-      "name": "Copa Libertadores 2020 (1)",
-      "animated_sticker_pack": false,
-      "stickers": "12"
-    },
-    {
-      "identifier": "superliga6",
-      "name": "SuperLiga 2019-2020 (6)",
-      "animated_sticker_pack": false,
-      "stickers": "25"
-    },
-    {
-      "identifier": "superliga5",
-      "name": "SuperLiga 2019-2020 (5)",
-      "animated_sticker_pack": false,
-      "stickers": "24"
-    },
-    {
-      "identifier": "superliga4",
-      "name": "SuperLiga 2019-2020 (4)",
-      "animated_sticker_pack": false,
-      "stickers": "17"
-    }
-  ]
+   "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.riverplate",
+   "ios_app_store_link":"",
+   "sticker_packs":[
+      {
+         "identifier":"equipo2023b",
+         "name":"Plantel 2023 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"copaliga2023f2a",
+         "name":"vs Barracas (1)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"copaliga2023f2b",
+         "name":"vs Barracas (2)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"camiseta2324a",
+         "name":"Primer Camiseta 23-24",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
+         "identifier":"pitymartinez1",
+         "name":"Pity Martinez (1)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"pitymartinez2",
+         "name":"Pity Martinez (2)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"manulanzini1",
+         "name":"Manu Lanzini",
+         "animated_sticker_pack":false,
+         "stickers":"19"
+      },
+      {
+         "identifier":"libertadores2023o1",
+         "name":"vs Inter PA",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"memesriver4",
+         "name":"Memes Animados",
+         "animated_sticker_pack":true,
+         "stickers":"16"
+      },
+      {
+         "identifier":"lpf2023w2",
+         "name":"Campeón LPF 2023 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"lpf2023w3",
+         "name":"Campeón LPF 2023 (3)",
+         "animated_sticker_pack":false,
+         "stickers":"14"
+      },
+      {
+         "identifier":"lpf2023w4",
+         "name":"Campeón LPF 2023 (4)",
+         "animated_sticker_pack":false,
+         "stickers":"14"
+      },
+      {
+         "identifier":"lpf2023f27a",
+         "name":"vs Racing (1)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"lpf2023f27b",
+         "name":"vs Racing (2)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"lpf2023f26",
+         "name":"vs Rosario Central",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"lpf2023w1",
+         "name":"Campeón LPF 2023",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"memesriver3",
+         "name":"Memes 3",
+         "animated_sticker_pack":false,
+         "stickers":"12"
+      },
+      {
+         "identifier":"lpf2023f25d",
+         "name":"vs Estudiantes (3)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"lpf2023f25c",
+         "name":"vs Estudiantes (2)",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"lpf2023f25b",
+         "name":"vs Estudiantes",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"lpf2023f25a",
+         "name":"Previa vs Estudiantes",
+         "animated_sticker_pack":false,
+         "stickers":"12"
+      },
+      {
+         "identifier":"libertadores2023fg6fotosconmebol",
+         "name":"Plantel Libertadores 23",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"lpf2023f23",
+         "name":"vs Colón",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"libertadores2023fg6a",
+         "name":"vs The Strongest (1)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"libertadores2023fg6b",
+         "name":"vs The Strongest (2)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"lpf2023f21a",
+         "name":"vs Instituto (1)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"lpf2023f21b",
+         "name":"vs Instituto (2)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"lpf2023f19",
+         "name":"vs Defensa y Justicia",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"lpf2023f20",
+         "name":"vs Banfield",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"rodrigoaliendro1",
+         "name":"Rodrigo Aliendro",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"julianalvarez3",
+         "name":"Julián Álvarez 22-23",
+         "animated_sticker_pack":false,
+         "stickers":"12"
+      },
+      {
+         "identifier":"libertadores2023fg5",
+         "name":"vs Fluminense",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"lpf2023f18",
+         "name":"vs Velez Sarsfield",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"gallardoeterno",
+         "name":"Gallardo Eterno",
+         "animated_sticker_pack":false,
+         "stickers":"14"
+      },
+      {
+         "identifier":"lpf2023f17",
+         "name":"vs Platense",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"lpf2023f14d",
+         "name":"vs Boca (4)",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"lpf2023f14c",
+         "name":"vs Boca (3)",
+         "animated_sticker_pack":false,
+         "stickers":"19"
+      },
+      {
+         "identifier":"lpf2023f14a",
+         "name":"vs Boca (1)",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"lpf2023f14b",
+         "name":"vs Boca (2)",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"preclasico2023",
+         "name":"Previa Super (1)",
+         "animated_sticker_pack":false,
+         "stickers":"9"
+      },
+      {
+         "identifier":"preclasico2022",
+         "name":"Previa Super (2)",
+         "animated_sticker_pack":false,
+         "stickers":"13"
+      },
+      {
+         "identifier":"gallomillo1",
+         "name":"Gallo Animado",
+         "animated_sticker_pack":true,
+         "stickers":"14"
+      },
+      {
+         "identifier":"camiseta2324c",
+         "name":"Tercer Camiseta 23-24",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"lpf2023f13a",
+         "name":"vs Independiente (1)",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"lpf2023f13b",
+         "name":"vs Independiente (2)",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"luisitocomunica1",
+         "name":"Luisito Comunica",
+         "animated_sticker_pack":false,
+         "stickers":"9"
+      },
+      {
+         "identifier":"libertadores2023fg2a",
+         "name":"vs Sp Cristal (1)",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"libertadores2023fg2b",
+         "name":"vs Sp Cristal (2)",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"lpf2023f12",
+         "name":"vs Newells",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"lpf2023f11a",
+         "name":"vs Gimnasia LP (1)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"lpf2023f11b",
+         "name":"vs Gimnasia LP (2)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"lpf2023f10a",
+         "name":"vs Huracán (1)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"lpf2023f10b",
+         "name":"vs Huracán (2)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"betoalonso1",
+         "name":"Beto Alonso",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"lpf2023f9",
+         "name":"vs Union",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"amistoso2023b",
+         "name":"vs Universidad Chile",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"lafiestadelcampeon1",
+         "name":"La Fiesta del Campeón (1)",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"lafiestadelcampeon2",
+         "name":"La Fiesta del Campeón (2)",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"lpf2023f8",
+         "name":"vs Sarmiento",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"lucasbeltran1",
+         "name":"Lucas Beltran (1)",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
+         "identifier":"lucasbeltran2",
+         "name":"Lucas Beltran (2)",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
+         "identifier":"lpf2023f7",
+         "name":"vs Godoy Cruz",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"copaargentina2023f32",
+         "name":"vs Racing Cordoba",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
+         "identifier":"lpf2023f6",
+         "name":"vs Lanus",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"torneocampeones2023s1",
+         "name":"vs Banfield",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"club1",
+         "name":"Club (1)",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"club2",
+         "name":"Club (2)",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"lpf2023f4",
+         "name":"vs Tigre",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"lpf2023f3",
+         "name":"vs Argentinos Jrs",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"salomonrondon1",
+         "name":"Salomón Rondón",
+         "animated_sticker_pack":false,
+         "stickers":"14"
+      },
+      {
+         "identifier":"lpf2023f1",
+         "name":"vs Central Córdoba",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
+         "identifier":"amistosos2023a",
+         "name":"Pretemporada 2023 (1)",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"amistosos2023b",
+         "name":"Pretemporada 2023 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"navidadargentina",
+         "name":"Navidad Argentina",
+         "animated_sticker_pack":true,
+         "stickers":"8"
+      },
+      {
+         "identifier":"nachofernandez1",
+         "name":"Nacho Fernandez",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"navidad3",
+         "name":"Feliz Navidad (3)",
+         "animated_sticker_pack":false,
+         "stickers":"12"
+      },
+      {
+         "identifier":"navidad2",
+         "name":"Feliz Navidad (2)",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"navidad",
+         "name":"Feliz Navidad (1)",
+         "animated_sticker_pack":false,
+         "stickers":"10"
+      },
+      {
+         "identifier":"worldcup2022w10",
+         "name":"Argentina Campeón (10)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"worldcup2022w11",
+         "name":"Argentina Campeón (11)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"worldcup2022w12",
+         "name":"Argentina Campeón (12)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"worldcup2022w5",
+         "name":"Argentina Campeón (5)",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
+         "identifier":"worldcup2022w6",
+         "name":"Argentina Campeón (6)",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
+         "identifier":"worldcup2022w7",
+         "name":"Argentina Campeón (7)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"worldcup2022w8",
+         "name":"Argentina Campeón (8)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"worldcup2022w9",
+         "name":"Argentina Campeón (9)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"worldcup2022w4",
+         "name":"Argentina Campeón (4)",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"worldcup2022w3",
+         "name":"Argentina Campeón (3)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"worldcup2022w2",
+         "name":"Argentina Campeón (2)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"worldcup2022w1",
+         "name":"Argentina Campeón (1)",
+         "animated_sticker_pack":false,
+         "stickers":"14"
+      },
+      {
+         "identifier":"worldcup2022s1a",
+         "name":"Argentina vs Croacia (1)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"worldcup2022s1b",
+         "name":"Argentina vs Croatia (2)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"worldcup2022s1c",
+         "name":"Argentina vs Croacia (3)",
+         "animated_sticker_pack":true,
+         "stickers":"9"
+      },
+      {
+         "identifier":"matiaskranevitter1",
+         "name":"Matías Kranevitter",
+         "animated_sticker_pack":false,
+         "stickers":"9"
+      },
+      {
+         "identifier":"martindemichelis1",
+         "name":"Martín Demichelis",
+         "animated_sticker_pack":false,
+         "stickers":"10"
+      },
+      {
+         "identifier":"worldcup2022q2e",
+         "name":"Argentina vs Holanda (5)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"worldcup2022q2a",
+         "name":"Argentina vs Holanda (1)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"worldcup2022q2b",
+         "name":"Argentina vs Holanda (2)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"worldcup2022q2c",
+         "name":"Argentina vs Holanda (3)",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
+         "identifier":"worldcup2022q2d",
+         "name":"Argentina vs Holanda (4)",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
+         "identifier":"aniversario4",
+         "name":"4 años de Madrid",
+         "animated_sticker_pack":false,
+         "stickers":"12"
+      },
+      {
+         "identifier":"worldcup2022dibumartinez",
+         "name":"Dibu Martinez",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"aniversario3",
+         "name":"Madrid 3 Años",
+         "animated_sticker_pack":false,
+         "stickers":"11"
+      },
+      {
+         "identifier":"aniversario2",
+         "name":"Segundo Aniversario",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"aniversario",
+         "name":"Pack Aniversario 9/12/2018",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"worldcup2022o2a",
+         "name":"Argentina vs Australia (1)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"worldcup2022o2b",
+         "name":"Argentina vs Australia (2)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"worldcup2022o2c",
+         "name":"Argentina vs Australia (3)",
+         "animated_sticker_pack":true,
+         "stickers":"9"
+      },
+      {
+         "identifier":"worldcup2022GCpolandvsargentina1",
+         "name":"Argentina vs Polonia (1)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"worldcup2022GCpolandvsargentina2",
+         "name":"Argentina vs Polonia (2)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"worldcup2022GCpolandvsargentina3",
+         "name":"Argentina vs Polonia (3)",
+         "animated_sticker_pack":true,
+         "stickers":"7"
+      },
+      {
+         "identifier":"worldcup2022GCargentinavsmexico1",
+         "name":"Argentina vs Mexico (1)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"worldcup2022GCargentinavsmexico2",
+         "name":"Argentina vs Mexico (2)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"worldcup2022GCargentinavsmexico3",
+         "name":"Argentina vs Mexico (3)",
+         "animated_sticker_pack":true,
+         "stickers":"11"
+      },
+      {
+         "identifier":"worldcup2022ARgol",
+         "name":"Argentina Gol",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"worldcup2022ARGanimados",
+         "name":"Argentina Animados",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"worldcup2022GCargentinavssaudiarabia",
+         "name":"Argentina vs Saudi Arabia",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"worldcup2022argentina2",
+         "name":"Argentina Qatar 1",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"worldcup2022argentina3",
+         "name":"Argentina Qatar 2",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"worldcup2022leomessi3",
+         "name":"Leo Messi",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"worldcup2022julianalvarez",
+         "name":"Julián Álvarez (3)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"worldcup2022enzofernandez",
+         "name":"Enzo Fernandez",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"worldcup2022exequielpalacios",
+         "name":"Exequiel Palacios",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"worldcup2022francoarmani",
+         "name":"Franco Armani",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"worldcup2022gonzalomontiel",
+         "name":"Gonzalo Montiel",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"worldcup2022germanpezzella",
+         "name":"German Pezzella",
+         "animated_sticker_pack":false,
+         "stickers":"19"
+      },
+      {
+         "identifier":"worldcup2022lionelscaloni",
+         "name":"Lionel Scaloni",
+         "animated_sticker_pack":false,
+         "stickers":"14"
+      },
+      {
+         "identifier":"worldcup2022guidorodriguez",
+         "name":"Guido Rodriguez",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"worldcup2022alexismacallister",
+         "name":"Alexis Mac Allister",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
+         "identifier":"worldcup2022angeldimaria",
+         "name":"Angel Di Maria",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"worldcup2022cutiromero",
+         "name":"Cuti Romero",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"worldcup2022dibumartinez",
+         "name":"Dibu Martinez",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"worldcup2022lautaromartinez",
+         "name":"Lautaro Martinez",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"worldcup2022leandroparedes",
+         "name":"Leandro Paredes",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"worldcup2022marcosacuna",
+         "name":"Marcos Acuña",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"worldcup2022nahuelmolina",
+         "name":"Nahuel Molina",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"worldcup2022nicolasotamendi",
+         "name":"Nicolas Otamendi",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"worldcup2022nicolastagliafico",
+         "name":"Nicolas Tagliafico",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"worldcup2022papugomez",
+         "name":"Papu Gomez",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"worldcup2022paulodybala",
+         "name":"Paulo Dybala",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"worldcup2022rodrigodepaul",
+         "name":"Rodrigo De Paul",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"worldcup2022angelcorrea",
+         "name":"Angel Correa",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"worldcup2022geronimorulli",
+         "name":"Geronimo Rulli",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"worldcup2022juanfoyth",
+         "name":"Juan Foyth",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"worldcup2022thiagoalmada",
+         "name":"Thiago Almada",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"lpf2022f27",
+         "name":"vs Racing",
+         "animated_sticker_pack":false,
+         "stickers":"13"
+      },
+      {
+         "identifier":"gallardoadios1",
+         "name":"Adios Gallardo",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"gallardogracias1",
+         "name":"Gracias Gallardo (1)",
+         "animated_sticker_pack":false,
+         "stickers":"14"
+      },
+      {
+         "identifier":"gallardogracias2",
+         "name":"Gracias Gallardo (2)",
+         "animated_sticker_pack":false,
+         "stickers":"13"
+      },
+      {
+         "identifier":"gallardo2022",
+         "name":"Gallardo 2022",
+         "animated_sticker_pack":false,
+         "stickers":"9"
+      },
+      {
+         "identifier":"galladonoseva",
+         "name":"Gallardo No se va",
+         "animated_sticker_pack":false,
+         "stickers":"12"
+      },
+      {
+         "identifier":"gallardo4",
+         "name":"Marcelo Gallardo (4)",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
+         "identifier":"gallardo3",
+         "name":"Gallardo Final 2019",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"gallardo2",
+         "name":"Marcelo Gallardo (2)",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
+         "identifier":"gallardo1",
+         "name":"Marcelo Gallardo (1)",
+         "animated_sticker_pack":false,
+         "stickers":"13"
+      },
+      {
+         "identifier":"lpf2022f25",
+         "name":"vs Platense",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"lpf2022f24",
+         "name":"vs Patronato",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"lpf2022f23",
+         "name":"vs Estudiantes",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"lpf2022f22",
+         "name":"vs Argentinos Jrs",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"diadelhincha1",
+         "name":"Día del Hincha (1)",
+         "animated_sticker_pack":false,
+         "stickers":"10"
+      },
+      {
+         "identifier":"diadelhincha2",
+         "name":"Dia del Hincha (2)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"despedidaponzio",
+         "name":"Capitan Eterno",
+         "animated_sticker_pack":false,
+         "stickers":"12"
+      },
+      {
+         "identifier":"graciasponzio",
+         "name":"Gracias Ponzio",
+         "animated_sticker_pack":false,
+         "stickers":"12"
+      },
+      {
+         "identifier":"lpf2022f20",
+         "name":"vs San Lorenzo",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"golessuperclasico1",
+         "name":"Goles Superclásico (1)",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
+         "identifier":"golessuperclasico2",
+         "name":"Goles Superclásico (2)",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
+         "identifier":"preclasico2022",
+         "name":"Previa Superclásico (2)",
+         "animated_sticker_pack":false,
+         "stickers":"13"
+      },
+      {
+         "identifier":"superclasico1",
+         "name":"Previa Superclásico (1)",
+         "animated_sticker_pack":true,
+         "stickers":"9"
+      },
+      {
+         "identifier":"lpf2022f17",
+         "name":"vs Barracas Central",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"copaargentina22f8",
+         "name":"vs Defensa y Justicia",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
+         "identifier":"lpf2022f16",
+         "name":"vs Tigre",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"lpf2022f15",
+         "name":"vs C. Córdoba",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"lpf2022f13",
+         "name":"vs Newells",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"camiseta2023",
+         "name":"Nueva Camiseta",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"equipo2023",
+         "name":"Plantel 2023 (1)",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
+         "identifier":"lpf2022f12",
+         "name":"vs Independiente",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"memesriver1",
+         "name":"Memes 1",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"memesriver2",
+         "name":"Memes 2",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"animados2",
+         "name":"vs Aldosivi (2)",
+         "animated_sticker_pack":true,
+         "stickers":"9"
+      },
+      {
+         "identifier":"lpf2022f10",
+         "name":"vs Aldosivi",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"lpf2022f9",
+         "name":"vs Gimnasia LP",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"copaargentina22f16",
+         "name":"vs Barracas",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"miguelborja1",
+         "name":"Bienvenido Borja",
+         "animated_sticker_pack":false,
+         "stickers":"9"
+      },
+      {
+         "identifier":"juliancity",
+         "name":"Julián City",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"adiosjulian",
+         "name":"Adios Julián",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"lpf2022f5",
+         "name":"vs Lanus",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"lpf2022f4",
+         "name":"vs Unión",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"lpf2022f2",
+         "name":"vs Atlético Tucumán",
+         "animated_sticker_pack":false,
+         "stickers":"19"
+      },
+      {
+         "identifier":"libertadores2022fg6",
+         "name":"vs Alianza Lima (2)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"121aniversario",
+         "name":"Aniversario River",
+         "animated_sticker_pack":false,
+         "stickers":"8"
+      },
+      {
+         "identifier":"matiasalmeyda1",
+         "name":"Matias Almeyda",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"libertadores2022fg5a1",
+         "name":"vs Colo Colo (3)",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"libertadores2022fg5",
+         "name":"vs Colo Colo (2)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"porelmundo1",
+         "name":"Por el Mundo (1)",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"porelmundo2",
+         "name":"Por el Mundo (2)",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"copaliga2022cf1",
+         "name":"vs Tigre",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"copaliga2022f14",
+         "name":"vs Platense",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"libertadores2022fg4",
+         "name":"vs Fortaleza (2)",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"copaliga2022f13",
+         "name":"vs Sarmiento (1)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"copaliga2022f13a1",
+         "name":"vs Sarmiento (2)",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"filiales2",
+         "name":"Filiales 2",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"libertadores2022fg3",
+         "name":"vs Colo Colo",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"copaliga2022f12",
+         "name":"vs Atl. Tucuman",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"filiales1",
+         "name":"Filiales 1",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"andresdalessandro1",
+         "name":"Andres D Alessandro",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"copaliga2022f10",
+         "name":"vs Banfield",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"enzofernandez1",
+         "name":"Enzo Fernandez",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"felicespascuas1",
+         "name":"Felices Pascuas",
+         "animated_sticker_pack":false,
+         "stickers":"12"
+      },
+      {
+         "identifier":"libertadores2022fg2",
+         "name":"vs Fortaleza",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"copaliga2022f9",
+         "name":"vs Argentinos",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"libertadores2022fg1",
+         "name":"vs Alianza Lima",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"copaliga2022f8",
+         "name":"vs Defensa",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
+         "identifier":"francoarmani1",
+         "name":"Franco Armani",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"julianalvarez2",
+         "name":"Julián Álvarez (2)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"equipo2022",
+         "name":"Equipo 2022",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"copaargentina22f32",
+         "name":"vs Laferrere (1)",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"copaargentina22f32a1",
+         "name":"vs Laferrere (2)",
+         "animated_sticker_pack":true,
+         "stickers":"14"
+      },
+      {
+         "identifier":"copaliga2022f5",
+         "name":"vs San Lorenzo",
+         "animated_sticker_pack":false,
+         "stickers":"19"
+      },
+      {
+         "identifier":"copaliga2022f4",
+         "name":"vs Racing Club",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"enzoperez2",
+         "name":"Enzo Perez (2)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"enzoperez1",
+         "name":"Enzo Perez (1)",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"gastadas2022a",
+         "name":"Gastadas 2022",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"copaliga2022f3",
+         "name":"vs Newells",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"copaliga2022f2",
+         "name":"vs Patronato (1)",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"copaliga2022f2a1",
+         "name":"vs Patronato (2)",
+         "animated_sticker_pack":true,
+         "stickers":"9"
+      },
+      {
+         "identifier":"14febrero",
+         "name":"Feliz San Valentin",
+         "animated_sticker_pack":false,
+         "stickers":"7"
+      },
+      {
+         "identifier":"juanferanimados",
+         "name":"Juanfer Animados",
+         "animated_sticker_pack":true,
+         "stickers":"9"
+      },
+      {
+         "identifier":"amistoso2022a",
+         "name":"vs Platense",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"davidtrezeguet1",
+         "name":"David Trezeguet",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"fernandocavenaghi1",
+         "name":"Fernando Cavenaghi",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"juanferregreso",
+         "name":"JuanFer Regresa",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"refuerzos2022",
+         "name":"Refuerzos 2022",
+         "animated_sticker_pack":false,
+         "stickers":"9"
+      },
+      {
+         "identifier":"newyear2022",
+         "name":"Feliz Año (2)",
+         "animated_sticker_pack":false,
+         "stickers":"11"
+      },
+      {
+         "identifier":"newyear1",
+         "name":"Feliz Año (1)",
+         "animated_sticker_pack":false,
+         "stickers":"10"
+      },
+      {
+         "identifier":"torneocampeones2021",
+         "name":"Campeones 2021 (1)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"torneocampeones2021b",
+         "name":"Campeones 2021 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"aniversario3",
+         "name":"Madrid 3 Años",
+         "animated_sticker_pack":false,
+         "stickers":"11"
+      },
+      {
+         "identifier":"aniversario2",
+         "name":"Segundo Aniversario",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"aniversario1",
+         "name":"Aniversario Madrid",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"graciasponzio",
+         "name":"Gracias Ponzio",
+         "animated_sticker_pack":false,
+         "stickers":"12"
+      },
+      {
+         "identifier":"lpf2021f23",
+         "name":"vs Rosario Central",
+         "animated_sticker_pack":false,
+         "stickers":"13"
+      },
+      {
+         "identifier":"lpf2021ca1",
+         "name":"River Campeon 2021",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
+         "identifier":"lpf2021c1",
+         "name":"River Campeon 2021",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"lpf2021f22",
+         "name":"vs Racing Club",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"lpf2021f21",
+         "name":"vs Platense (1)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"lpf2021f21a1",
+         "name":"vs Platense (2)",
+         "animated_sticker_pack":true,
+         "stickers":"9"
+      },
+      {
+         "identifier":"lpf2021f20",
+         "name":"vs Patronato (1)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"lpf2021f20a1",
+         "name":"vs Patronato (2)",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
+         "identifier":"paulodiaz",
+         "name":"Paulo Diaz",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"gol2021a1",
+         "name":"Gol Animado 2021",
+         "animated_sticker_pack":true,
+         "stickers":"8"
+      },
+      {
+         "identifier":"lpf2021f18a1",
+         "name":"vs Argentinos Jrs (2)",
+         "animated_sticker_pack":true,
+         "stickers":"8"
+      },
+      {
+         "identifier":"lpf2021f18",
+         "name":"vs Argentinos Jrs (1)",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"julianalvarez1",
+         "name":"Julián Álvarez (1)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"lpf2021f17",
+         "name":"vs Talleres",
+         "animated_sticker_pack":false,
+         "stickers":"19"
+      },
+      {
+         "identifier":"lpf2021f16",
+         "name":"vs San Lorenzo",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"leyendas3",
+         "name":"Leyendas (3)",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"leyendas4",
+         "name":"Leyendas (4)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"tecnicos1",
+         "name":"Tecnicos",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"lpf2021f15",
+         "name":"vs Banfield",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"gastadasclasico2021b",
+         "name":"Gastadas Superclasico (2)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"gastadasclasico2021",
+         "name":"Gastadas Superclasico (1)",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"lpf2021f14",
+         "name":"vs Boca Juniors",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"preclasico2021",
+         "name":"Previa Superclasico",
+         "animated_sticker_pack":false,
+         "stickers":"19"
+      },
+      {
+         "identifier":"lpf2021f13",
+         "name":"vs Central Cordoba",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"lpf2021f12",
+         "name":"vs Arsenal",
+         "animated_sticker_pack":false,
+         "stickers":"14"
+      },
+      {
+         "identifier":"lpf2021f11",
+         "name":"vs Newells",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"cuerpotecnico2021",
+         "name":"Cuerpo Tecnico 2021",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"jugadores2021",
+         "name":"Jugadores 2021",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"lpf2021f9",
+         "name":"vs Sarmiento",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"lpf2021f8",
+         "name":"vs Aldosivi",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"burritoortega1",
+         "name":"Burrito Ortega",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"lpf2021f6",
+         "name":"vs Velez",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"lpf2021f3",
+         "name":"vs Lanus",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"lpf2021f2",
+         "name":"vs Union",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"libertadores2021o2",
+         "name":"vs Argentinos Juniors",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"aniversario120",
+         "name":"Felices 120",
+         "animated_sticker_pack":false,
+         "stickers":"6"
+      },
+      {
+         "identifier":"libertadores2021fg5",
+         "name":"vs Indep. Sta Fe",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"libertadores2021p1",
+         "name":"Ataja Enzo",
+         "animated_sticker_pack":false,
+         "stickers":"7"
+      },
+      {
+         "identifier":"lpf2021fg13",
+         "name":"vs Aldosivi",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"festejos1",
+         "name":"Festejos 1",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"festejos2",
+         "name":"Festejos 2",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"libertadores2021fg2",
+         "name":"vs Junior",
+         "animated_sticker_pack":false,
+         "stickers":"12"
+      },
+      {
+         "identifier":"lpf2021fg10",
+         "name":"vs Central Cordoba",
+         "animated_sticker_pack":false,
+         "stickers":"13"
+      },
+      {
+         "identifier":"lpf2021fg9",
+         "name":"vs Colon",
+         "animated_sticker_pack":false,
+         "stickers":"14"
+      },
+      {
+         "identifier":"copaargentina21f16",
+         "name":"vs Atl Tucuman",
+         "animated_sticker_pack":false,
+         "stickers":"10"
+      },
+      {
+         "identifier":"francescoli1",
+         "name":"Enzo Francescoli",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"lpf2021fg6",
+         "name":"vs Godoy Cruz",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"supercopa2019b",
+         "name":"Festejo Supercopa",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"supercopa2019",
+         "name":"Supercopa 2019",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"lpf2021fg3",
+         "name":"vs Platense",
+         "animated_sticker_pack":false,
+         "stickers":"11"
+      },
+      {
+         "identifier":"equipo2021",
+         "name":"Stickers Equipo 2021",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"lpf2021fg2",
+         "name":"vs Rosario Central",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"sanvalentin",
+         "name":"San Valentin",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
+         "identifier":"copaargentina21f32",
+         "name":"vs Depro",
+         "animated_sticker_pack":false,
+         "stickers":"13"
+      },
+      {
+         "identifier":"anionuevo21",
+         "name":"Feliz 2021",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"lpf2020fc3",
+         "name":"vs Arsenal",
+         "animated_sticker_pack":false,
+         "stickers":"14"
+      },
+      {
+         "identifier":"lpf2020fc2",
+         "name":"vs Huracan",
+         "animated_sticker_pack":false,
+         "stickers":"11"
+      },
+      {
+         "identifier":"libertadores2020c2",
+         "name":"vs Nacional (2)",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
+         "identifier":"libertadores2020c1",
+         "name":"vs Nacional (1)",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
+         "identifier":"lpf2020fg6",
+         "name":"vs Godoy Cruz",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"libertadores2020o2",
+         "name":"vs Paranaense",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"lpf2020fg5",
+         "name":"vs Central",
+         "animated_sticker_pack":false,
+         "stickers":"9"
+      },
+      {
+         "identifier":"lpf2020fg4",
+         "name":"vs Banfield",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"lpf2020fg3",
+         "name":"vs Godoy Cruz",
+         "animated_sticker_pack":false,
+         "stickers":"14"
+      },
+      {
+         "identifier":"lpf2020fg2",
+         "name":"vs Central",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"libertadores2020fg6",
+         "name":"vs Liga Quito",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
+         "identifier":"libertadores2020fg5",
+         "name":"vs San Pablo",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"gol2",
+         "name":"Gol (2)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"libertadores2020fg4",
+         "name":"vs Binacional",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"libertadores2020fg3",
+         "name":"vs San Pablo",
+         "animated_sticker_pack":false,
+         "stickers":"14"
+      },
+      {
+         "identifier":"animados1",
+         "name":"Pack Animados 1",
+         "animated_sticker_pack":true,
+         "stickers":"19"
+      },
+      {
+         "identifier":"emojis1",
+         "name":"Pack Emojis",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"poster1",
+         "name":"Pack Poster",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"funeral",
+         "name":"Pack Funeral",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"libertadores2020a",
+         "name":"Copa Libertadores 2020 (1)",
+         "animated_sticker_pack":false,
+         "stickers":"12"
+      },
+      {
+         "identifier":"superliga6",
+         "name":"SuperLiga 2019-2020 (6)",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"superliga5",
+         "name":"SuperLiga 2019-2020 (5)",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"superliga4",
+         "name":"SuperLiga 2019-2020 (4)",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      }
+   ]
 }
