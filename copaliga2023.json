@@ -3,6 +3,18 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "copaliga2023f4a",
+      "name": "vs Arsenal (1)",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "copaliga2023f4b",
+      "name": "vs Arsenal (2)",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
       "identifier": "copaliga2023f2a",
       "name": "vs Barracas (1)",
       "animated_sticker_pack": false,
