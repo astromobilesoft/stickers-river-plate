@@ -3,29 +3,35 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
-      "identifier": "copaliga2023f5a",
-      "name": "vs AT Tucumán (1)",
-      "animated_sticker_pack": false,
-      "stickers": "15"
-    },
+         "identifier":"camiseta2324b",
+         "name":"Tercer Camiseta 23-24",
+         "animated_sticker_pack":false,
+         "stickers":"11"
+      },
       {
-      "identifier": "copaliga2023f5b",
-      "name": "vs AT Tucumán (2)",
-      "animated_sticker_pack": false,
-      "stickers": "15"
-    },
+         "identifier":"copaliga2023f5a",
+         "name":"vs AT Tucumán (1)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
       {
-      "identifier": "copaliga2023f4a",
-      "name": "vs Arsenal (1)",
-      "animated_sticker_pack": false,
-      "stickers": "18"
-    },
-    {
-      "identifier": "copaliga2023f4b",
-      "name": "vs Arsenal (2)",
-      "animated_sticker_pack": false,
-      "stickers": "18"
-    },
+         "identifier":"copaliga2023f5b",
+         "name":"vs AT Tucumán (2)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"copaliga2023f4a",
+         "name":"vs Arsenal (1)",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
+         "identifier":"copaliga2023f4b",
+         "name":"vs Arsenal (2)",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
       {
          "identifier":"equipo2023b",
          "name":"Plantel 2023 (2)",
@@ -280,7 +286,7 @@
       },
       {
          "identifier":"camiseta2324c",
-         "name":"Tercer Camiseta 23-24",
+         "name":"Segunda Camiseta 23-24",
          "animated_sticker_pack":false,
          "stickers":"16"
       },
