@@ -3,6 +3,18 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "diadelhincha1",
+      "name": "Día del Hincha",
+      "animated_sticker_pack": false,
+      "stickers": "10"
+    },
+    {
+      "identifier": "diadelhincha2",
+      "name": "Dia del Hincha (2)",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
       "identifier": "camiseta2324b",
       "name": "Tercer Camiseta 23-24",
       "animated_sticker_pack": false,
@@ -61,18 +73,6 @@
       "name": "Filiales 1",
       "animated_sticker_pack": false,
       "stickers": "23"
-    },
-    {
-      "identifier": "diadelhincha1",
-      "name": "Día del Hincha",
-      "animated_sticker_pack": false,
-      "stickers": "10"
-    },
-    {
-      "identifier": "diadelhincha2",
-      "name": "Dia del Hincha (2)",
-      "animated_sticker_pack": false,
-      "stickers": "15"
     },
     {
       "identifier": "aniversario3",

@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"diadelhincha1",
+         "name":"Día del Hincha (1)",
+         "animated_sticker_pack":false,
+         "stickers":"10"
+      },
+      {
+         "identifier":"diadelhincha2",
+         "name":"Dia del Hincha (2)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
          "identifier":"copaliga2023f6",
          "name":"vs Banfield",
          "animated_sticker_pack":false,
@@ -991,18 +1003,6 @@
          "name":"vs Argentinos Jrs",
          "animated_sticker_pack":false,
          "stickers":"24"
-      },
-      {
-         "identifier":"diadelhincha1",
-         "name":"Día del Hincha (1)",
-         "animated_sticker_pack":false,
-         "stickers":"10"
-      },
-      {
-         "identifier":"diadelhincha2",
-         "name":"Dia del Hincha (2)",
-         "animated_sticker_pack":false,
-         "stickers":"15"
       },
       {
          "identifier":"despedidaponzio",
