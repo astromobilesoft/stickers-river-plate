@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"preclasico2023",
+         "name":"Previa Super (1)",
+         "animated_sticker_pack":false,
+         "stickers":"9"
+      },
+      {
+         "identifier":"preclasico2022",
+         "name":"Previa Super (2)",
+         "animated_sticker_pack":false,
+         "stickers":"13"
+      },
+      {
          "identifier":"diadelhincha1",
          "name":"Día del Hincha (1)",
          "animated_sticker_pack":false,
@@ -283,18 +295,6 @@
          "name":"vs Boca (2)",
          "animated_sticker_pack":false,
          "stickers":"16"
-      },
-      {
-         "identifier":"preclasico2023",
-         "name":"Previa Super (1)",
-         "animated_sticker_pack":false,
-         "stickers":"9"
-      },
-      {
-         "identifier":"preclasico2022",
-         "name":"Previa Super (2)",
-         "animated_sticker_pack":false,
-         "stickers":"13"
       },
       {
          "identifier":"gallomillo1",
