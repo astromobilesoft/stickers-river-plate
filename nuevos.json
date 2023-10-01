@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"copaliga2023f7a",
+         "name":"vs Boca Jrs (1)",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"copaliga2023f7a1",
+         "name":"vs Boca Jrs (2)",
+         "animated_sticker_pack":true,
+         "stickers":"11"
+      },
+      {
          "identifier":"preclasico2023",
          "name":"Previa Super (1)",
          "animated_sticker_pack":false,
