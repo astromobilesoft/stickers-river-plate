@@ -3,11 +3,17 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
-      "identifier": "cargadas3",
-      "name": "La Séptima",
-      "animated_sticker_pack": false,
-      "stickers": "18"
-    },
+         "identifier":"copaliga2023fc1",
+         "name":"vs Belgrano",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"cargadas3",
+         "name":"La Séptima",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
       {
          "identifier":"copaliga2023f11",
          "name":"vs Gimnasia LP",
