@@ -3,6 +3,30 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"aniversario4",
+         "name":"Madrid 4 Años",
+         "animated_sticker_pack":false,
+         "stickers":"12"
+      },
+      {
+         "identifier":"aniversario3",
+         "name":"Madrid 3 Años",
+         "animated_sticker_pack":false,
+         "stickers":"11"
+      },
+      {
+         "identifier":"aniversario2",
+         "name":"Madrid 2 Años",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"aniversario",
+         "name":"Aniversario 9/12/2018",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
          "identifier":"copaliga2023c1",
          "name":"vs Belgrano",
          "animated_sticker_pack":false,
@@ -711,34 +735,10 @@
          "stickers":"10"
       },
       {
-         "identifier":"aniversario4",
-         "name":"4 años de Madrid",
-         "animated_sticker_pack":false,
-         "stickers":"12"
-      },
-      {
          "identifier":"worldcup2022dibumartinez",
          "name":"Dibu Martinez",
          "animated_sticker_pack":false,
          "stickers":"27"
-      },
-      {
-         "identifier":"aniversario3",
-         "name":"Madrid 3 Años",
-         "animated_sticker_pack":false,
-         "stickers":"11"
-      },
-      {
-         "identifier":"aniversario2",
-         "name":"Segundo Aniversario",
-         "animated_sticker_pack":false,
-         "stickers":"25"
-      },
-      {
-         "identifier":"aniversario",
-         "name":"Pack Aniversario 9/12/2018",
-         "animated_sticker_pack":false,
-         "stickers":"17"
       },
       {
          "identifier":"worldcup2022o2a",
