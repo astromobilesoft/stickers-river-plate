@@ -1,198 +1,204 @@
 {
-  "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.riverplate",
-  "ios_app_store_link": "",
-  "sticker_packs": [
-    {
+   "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.riverplate",
+   "ios_app_store_link":"",
+   "sticker_packs":[
+      {
+         "identifier":"trofeocampeones2023f1",
+         "name":"Trofeo Campeones 2023",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
          "identifier":"aniversario5",
          "name":"Madrid 5 Años",
          "animated_sticker_pack":false,
          "stickers":"10"
-    },
-    {
-      "identifier": "memesriver3",
-      "name": "Memes 3",
-      "animated_sticker_pack": false,
-      "stickers": "12"
-    },
-    {
-      "identifier": "luisitocomunica1",
-      "name": "Luisito Comunica",
-      "animated_sticker_pack": false,
-      "stickers": "9"
-    },
-    {
-      "identifier": "amistoso2023b",
-      "name": "vs Universidad Chile",
-      "animated_sticker_pack": false,
-      "stickers": "21"
-    },
-    {
-      "identifier": "torneocampeones2023s1",
-      "name": "vs Banfield",
-      "animated_sticker_pack": false,
-      "stickers": "20"
-    },
-    {
-      "identifier": "amistosos2023a",
-      "name": "Pretemporada 2023 (1)",
-      "animated_sticker_pack": false,
-      "stickers": "22"
-    },
-    {
-      "identifier": "amistosos2023b",
-      "name": "Pretemporada 2023 (2)",
-      "animated_sticker_pack": false,
-      "stickers": "22"
-    },
-    {
-      "identifier": "navidadargentina",
-      "name": "Navidad Argentina",
-      "animated_sticker_pack": true,
-      "stickers": "8"
-    },
-    {
-      "identifier": "navidad3",
-      "name": "Feliz Navidad (3)",
-      "animated_sticker_pack": false,
-      "stickers": "12"
-    },
-    {
-      "identifier": "navidad2",
-      "name": "Feliz Navidad (2)",
-      "animated_sticker_pack": false,
-      "stickers": "21"
-    },
-    {
-      "identifier": "navidad",
-      "name": "Feliz Navidad (1)",
-      "animated_sticker_pack": false,
-      "stickers": "10"
-    },
-    {
-      "identifier": "memesriver1",
-      "name": "Memes 1",
-      "animated_sticker_pack": false,
-      "stickers": "15"
-    },
-    {
-      "identifier": "memesriver2",
-      "name": "Memes 2",
-      "animated_sticker_pack": false,
-      "stickers": "15"
-    },
-    {
-      "identifier": "juliancity",
-      "name": "Julian City",
-      "animated_sticker_pack": false,
-      "stickers": "17"
-    },
-    {
-      "identifier": "121aniversario",
-      "name": "Aniversario River",
-      "animated_sticker_pack": false,
-      "stickers": "8"
-    },
-    {
-      "identifier": "porelmundo1",
-      "name": "Por el Mundo (1)",
-      "animated_sticker_pack": false,
-      "stickers": "28"
-    },
-    {
-      "identifier": "porelmundo2",
-      "name": "Por el Mundo (2)",
-      "animated_sticker_pack": false,
-      "stickers": "27"
-    },
-    {
-      "identifier": "felicespascuas1",
-      "name": "Felices Pascuas",
-      "animated_sticker_pack": false,
-      "stickers": "12"
-    },
-    {
-      "identifier": "14febrero",
-      "name": "Feliz San Valentin",
-      "animated_sticker_pack": false,
-      "stickers": "7"
-    },
-    {
-      "identifier": "amistoso2022a",
-      "name": "vs Platense",
-      "animated_sticker_pack": false,
-      "stickers": "22"
-    },
-    {
-      "identifier": "juanferregreso",
-      "name": "JuanFer Regresa",
-      "animated_sticker_pack": false,
-      "stickers": "22"
-    },
-    {
-      "identifier": "newyear2022",
-      "name": "Feliz Año (2)",
-      "animated_sticker_pack": false,
-      "stickers": "11"
-    },
-    {
-      "identifier": "newyear1",
-      "name": "Feliz Año (1)",
-      "animated_sticker_pack": false,
-      "stickers": "10"
-    },
-    {
-      "identifier": "torneocampeones2021b",
-      "name": "Campeones 2021 (2)",
-      "animated_sticker_pack": false,
-      "stickers": "17"
-    },
-    {
-      "identifier": "supercopa2019b",
-      "name": "Festejo Supercopa",
-      "animated_sticker_pack": false,
-      "stickers": "20"
-    },
-    {
-      "identifier": "supercopa2019",
-      "name": "Supercopa 2019",
-      "animated_sticker_pack": false,
-      "stickers": "20"
-    },
-    {
-      "identifier": "sanvalentin",
-      "name": "San Valentin",
-      "animated_sticker_pack": false,
-      "stickers": "29"
-    },
-    {
-      "identifier": "anionuevo21",
-      "name": "Feliz 2021",
-      "animated_sticker_pack": false,
-      "stickers": "25"
-    },
-    {
-      "identifier": "emojis1",
-      "name": "Pack Emojis",
-      "animated_sticker_pack": false,
-      "stickers": "17"
-    },
-    {
-      "identifier": "poster1",
-      "name": "Pack Poster",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "hincha1",
-      "name": "Pack Hincha",
-      "animated_sticker_pack": false,
-      "stickers": "8"
-    },
-    {
-      "identifier": "recopa2019",
-      "name": "Recopa 2019",
-      "animated_sticker_pack": false,
-      "stickers": "26"
-    }
-  ]
+      },
+      {
+         "identifier":"memesriver3",
+         "name":"Memes 3",
+         "animated_sticker_pack":false,
+         "stickers":"12"
+      },
+      {
+         "identifier":"luisitocomunica1",
+         "name":"Luisito Comunica",
+         "animated_sticker_pack":false,
+         "stickers":"9"
+      },
+      {
+         "identifier":"amistoso2023b",
+         "name":"vs Universidad Chile",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"torneocampeones2023s1",
+         "name":"vs Banfield",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"amistosos2023a",
+         "name":"Pretemporada 2023 (1)",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"amistosos2023b",
+         "name":"Pretemporada 2023 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"navidadargentina",
+         "name":"Navidad Argentina",
+         "animated_sticker_pack":true,
+         "stickers":"8"
+      },
+      {
+         "identifier":"navidad3",
+         "name":"Feliz Navidad (3)",
+         "animated_sticker_pack":false,
+         "stickers":"12"
+      },
+      {
+         "identifier":"navidad2",
+         "name":"Feliz Navidad (2)",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"navidad",
+         "name":"Feliz Navidad (1)",
+         "animated_sticker_pack":false,
+         "stickers":"10"
+      },
+      {
+         "identifier":"memesriver1",
+         "name":"Memes 1",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"memesriver2",
+         "name":"Memes 2",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"juliancity",
+         "name":"Julian City",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"121aniversario",
+         "name":"Aniversario River",
+         "animated_sticker_pack":false,
+         "stickers":"8"
+      },
+      {
+         "identifier":"porelmundo1",
+         "name":"Por el Mundo (1)",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"porelmundo2",
+         "name":"Por el Mundo (2)",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"felicespascuas1",
+         "name":"Felices Pascuas",
+         "animated_sticker_pack":false,
+         "stickers":"12"
+      },
+      {
+         "identifier":"14febrero",
+         "name":"Feliz San Valentin",
+         "animated_sticker_pack":false,
+         "stickers":"7"
+      },
+      {
+         "identifier":"amistoso2022a",
+         "name":"vs Platense",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"juanferregreso",
+         "name":"JuanFer Regresa",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"newyear2022",
+         "name":"Feliz Año (2)",
+         "animated_sticker_pack":false,
+         "stickers":"11"
+      },
+      {
+         "identifier":"newyear1",
+         "name":"Feliz Año (1)",
+         "animated_sticker_pack":false,
+         "stickers":"10"
+      },
+      {
+         "identifier":"torneocampeones2021b",
+         "name":"Campeones 2021 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"supercopa2019b",
+         "name":"Festejo Supercopa",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"supercopa2019",
+         "name":"Supercopa 2019",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"sanvalentin",
+         "name":"San Valentin",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
+         "identifier":"anionuevo21",
+         "name":"Feliz 2021",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"emojis1",
+         "name":"Pack Emojis",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"poster1",
+         "name":"Pack Poster",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"hincha1",
+         "name":"Pack Hincha",
+         "animated_sticker_pack":false,
+         "stickers":"8"
+      },
+      {
+         "identifier":"recopa2019",
+         "name":"Recopa 2019",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      }
+   ]
 }
