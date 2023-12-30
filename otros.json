@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"newyear2",
+         "name":"Feliz Año (2)",
+         "animated_sticker_pack":false,
+         "stickers":"14"
+      },
+      {
+         "identifier":"newyear1",
+         "name":"Feliz Año (1)",
+         "animated_sticker_pack":false,
+         "stickers":"10"
+      },
+      {
          "identifier":"navidad4",
          "name":"Feliz Navidad (4)",
          "animated_sticker_pack":false,
@@ -151,12 +163,6 @@
          "name":"Feliz Año (2)",
          "animated_sticker_pack":false,
          "stickers":"11"
-      },
-      {
-         "identifier":"newyear1",
-         "name":"Feliz Año (1)",
-         "animated_sticker_pack":false,
-         "stickers":"10"
       },
       {
          "identifier":"torneocampeones2021b",
