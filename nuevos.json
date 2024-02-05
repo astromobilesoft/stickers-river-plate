@@ -3,6 +3,24 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"copaliga2024f3a",
+         "name":"vs Velez (1)",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"copaliga2024f3b",
+         "name":"vs Velez (2)",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"copaliga2024f3c",
+         "name":"vs Velez (3)",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
          "identifier":"copaliga2024f2",
          "name":"vs Barracas Central",
          "animated_sticker_pack":false,
