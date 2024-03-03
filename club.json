@@ -1,144 +1,150 @@
 {
-  "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.riverplate",
-  "ios_app_store_link": "",
-  "sticker_packs": [
-    {
-      "identifier": "dorsales2024a",
-      "name": "Dorsales 2024 (1)",
-      "animated_sticker_pack": false,
-      "stickers": "21"
-    },
-    {
-      "identifier": "diadelhincha1",
-      "name": "Día del Hincha",
-      "animated_sticker_pack": false,
-      "stickers": "10"
-    },
-    {
-      "identifier": "diadelhincha2",
-      "name": "Dia del Hincha (2)",
-      "animated_sticker_pack": false,
-      "stickers": "15"
-    },
-    {
-      "identifier": "camiseta2324b",
-      "name": "Tercer Camiseta 23-24",
-      "animated_sticker_pack": false,
-      "stickers": "11"
-    },
-    {
-      "identifier": "camiseta2324a",
-      "name": "Primer Camiseta 23-24",
-      "animated_sticker_pack": false,
-      "stickers": "18"
-    },
-    {
-      "identifier": "camiseta2324c",
-      "name": "Segunda Camiseta 23-24",
-      "animated_sticker_pack": false,
-      "stickers": "16"
-    },
-    {
-      "identifier": "club1",
-      "name": "Club (1)",
-      "animated_sticker_pack": false,
-      "stickers": "16"
-    },
-    {
-      "identifier": "club2",
-      "name": "Club (2)",
-      "animated_sticker_pack": false,
-      "stickers": "16"
-    },
-    {
-      "identifier": "camiseta2023",
-      "name": "Camiseta 2023",
-      "animated_sticker_pack": false,
-      "stickers": "20"
-    },
-    {
-      "identifier": "golessuperclasico1",
-      "name": "Goles Superclásico (1)",
-      "animated_sticker_pack": false,
-      "stickers": "18"
-    },
-    {
-      "identifier": "golessuperclasico2",
-      "name": "Goles Superclásico (2)",
-      "animated_sticker_pack": false,
-      "stickers": "18"
-    },
-    {
-      "identifier": "filiales2",
-      "name": "Filiales 2",
-      "animated_sticker_pack": false,
-      "stickers": "24"
-    },
-    {
-      "identifier": "filiales1",
-      "name": "Filiales 1",
-      "animated_sticker_pack": false,
-      "stickers": "23"
-    },
-    {
-      "identifier": "aniversario3",
-      "name": "Madrid 3 Años",
-      "animated_sticker_pack": false,
-      "stickers": "11"
-    },
-    {
-      "identifier": "gol2021a1",
-      "name": "Gol Animado 2021",
-      "animated_sticker_pack": true,
-      "stickers": "8"
-    },
-    {
-      "identifier": "aniversario120",
-      "name": "Felices 120",
-      "animated_sticker_pack": false,
-      "stickers": "6"
-    },
-    {
-      "identifier": "nuevacamiseta",
-      "name": "Camiseta 2019",
-      "animated_sticker_pack": false,
-      "stickers": "11"
-    },
-    {
-      "identifier": "gol1",
-      "name": "Gol (1)",
-      "animated_sticker_pack": false,
-      "stickers": "25"
-    },
-    {
-      "identifier": "gol2",
-      "name": "Gol (2)",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "momentos2",
-      "name": "Grandes Momentos 2",
-      "animated_sticker_pack": false,
-      "stickers": "16"
-    },
-    {
-      "identifier": "momentos1",
-      "name": "Grandes Momentos 1",
-      "animated_sticker_pack": false,
-      "stickers": "24"
-    },
-    {
-      "identifier": "camisetas1",
-      "name": "Camisetas",
-      "animated_sticker_pack": false,
-      "stickers": "24"
-    },
-    {
-      "identifier": "hinchada1",
-      "name": "Stickers Hinchada",
-      "animated_sticker_pack": false,
-      "stickers": "14"
-    }
-  ]
+   "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.riverplate",
+   "ios_app_store_link":"",
+   "sticker_packs":[
+      {
+         "identifier":"dorsales2024a",
+         "name":"Dorsales 2024 (1)",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"dorsales2024c",
+         "name":"Dorsales 2024 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"diadelhincha1",
+         "name":"Día del Hincha",
+         "animated_sticker_pack":false,
+         "stickers":"10"
+      },
+      {
+         "identifier":"diadelhincha2",
+         "name":"Dia del Hincha (2)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"camiseta2324b",
+         "name":"Tercer Camiseta 23-24",
+         "animated_sticker_pack":false,
+         "stickers":"11"
+      },
+      {
+         "identifier":"camiseta2324a",
+         "name":"Primer Camiseta 23-24",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
+         "identifier":"camiseta2324c",
+         "name":"Segunda Camiseta 23-24",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"club1",
+         "name":"Club (1)",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"club2",
+         "name":"Club (2)",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"camiseta2023",
+         "name":"Camiseta 2023",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"golessuperclasico1",
+         "name":"Goles Superclásico (1)",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
+         "identifier":"golessuperclasico2",
+         "name":"Goles Superclásico (2)",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
+         "identifier":"filiales2",
+         "name":"Filiales 2",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"filiales1",
+         "name":"Filiales 1",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"aniversario3",
+         "name":"Madrid 3 Años",
+         "animated_sticker_pack":false,
+         "stickers":"11"
+      },
+      {
+         "identifier":"gol2021a1",
+         "name":"Gol Animado 2021",
+         "animated_sticker_pack":true,
+         "stickers":"8"
+      },
+      {
+         "identifier":"aniversario120",
+         "name":"Felices 120",
+         "animated_sticker_pack":false,
+         "stickers":"6"
+      },
+      {
+         "identifier":"nuevacamiseta",
+         "name":"Camiseta 2019",
+         "animated_sticker_pack":false,
+         "stickers":"11"
+      },
+      {
+         "identifier":"gol1",
+         "name":"Gol (1)",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"gol2",
+         "name":"Gol (2)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"momentos2",
+         "name":"Grandes Momentos 2",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"momentos1",
+         "name":"Grandes Momentos 1",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"camisetas1",
+         "name":"Camisetas",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"hinchada1",
+         "name":"Stickers Hinchada",
+         "animated_sticker_pack":false,
+         "stickers":"14"
+      }
+   ]
 }
