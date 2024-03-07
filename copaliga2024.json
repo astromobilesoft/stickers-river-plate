@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"copaliga2024f9a",
+         "name":"vs Independiente Mza (1)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"copaliga2024f9b",
+         "name":"vs Independiente Mza (2)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
          "identifier":"copaliga2024f8",
          "name":"vs Talleres",
          "animated_sticker_pack":false,
