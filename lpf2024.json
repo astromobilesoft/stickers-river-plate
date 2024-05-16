@@ -1,0 +1,18 @@
+{
+  "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.riverplate",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+      {
+         "identifier":"lpf2024f1a",
+         "name":"vs Central Córdoba (1)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"lpf2024f1b",
+         "name":"vs Central Córdoba (2)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      }
+  ]
+}
