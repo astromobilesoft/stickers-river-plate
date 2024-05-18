@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"lpf2024f2a",
+         "name":"vs Belgrano (1)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"lpf2024f2b",
+         "name":"vs Belgrano (2)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
          "identifier":"libertadores2024fg5",
          "name":"vs Libertad",
          "animated_sticker_pack":false,
