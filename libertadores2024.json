@@ -3,6 +3,18 @@
   "ios_app_store_link": "",
   "sticker_packs": [
       {
+         "identifier":"libertadores2024fg6a",
+         "name":"vs Dep Tachira (1)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"libertadores2024fg6b",
+         "name":"vs Dep Tachira (2)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
          "identifier":"libertadores2024fg5",
          "name":"vs Libertad",
          "animated_sticker_pack":false,
