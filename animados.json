@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"chaumicho1",
+         "name":"Chau Micho (1)",
+         "animated_sticker_pack":true,
+         "stickers":"6"
+      },
+      {
          "identifier":"copaliga2023f7a1",
          "name":"vs Boca Jrs (2)",
          "animated_sticker_pack":true,
