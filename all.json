@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"lpf2024f8a",
+         "name":"vs Sarmiento (1)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"lpf2024f8b",
+         "name":"vs Sarmiento (2)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
          "identifier":"chaumicho2",
          "name":"Chau Micho (2)",
          "animated_sticker_pack":false,
