@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"gallardovuelve1",
+         "name":"Vuelve Gallardo",
+         "animated_sticker_pack":true,
+         "stickers":"8"
+      },
+      {
          "identifier":"chaumicho1",
          "name":"Chau Micho (1)",
          "animated_sticker_pack":true,
