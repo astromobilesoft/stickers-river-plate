@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"equipo2024",
+         "name":"Plantel 2024",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
          "identifier":"nicolasdelacruz1",
          "name":"Nicolas De la Cruz",
          "animated_sticker_pack":false,
