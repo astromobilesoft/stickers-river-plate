@@ -3,6 +3,24 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"lpf2024f15a",
+         "name":"vs Boca Jrs (1)",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"lpf2024f15b",
+         "name":"vs Boca Jrs (2)",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"superclasico2024a",
+         "name":"Gastadas 2024",
+         "animated_sticker_pack":false,
+         "stickers":"5"
+      },
+      {
          "identifier":"camiseta2425b",
          "name":"Segunda Camiseta 24-25",
          "animated_sticker_pack":false,

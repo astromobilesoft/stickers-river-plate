@@ -3,10 +3,16 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
-         "identifier":"aniversario5",
-         "name":"Madrid 5 Años",
-         "animated_sticker_pack":false,
-         "stickers":"10"
+      "identifier":"superclasico2024a",
+      "name":"Gastadas 2024",
+      "animated_sticker_pack":false,
+      "stickers":"5"
+    },
+    {
+      "identifier":"aniversario5",
+      "name":"Madrid 5 Años",
+      "animated_sticker_pack":false,
+      "stickers":"10"
     },
     {
       "identifier":"aniversariomadrid1",
