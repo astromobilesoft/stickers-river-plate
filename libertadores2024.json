@@ -3,6 +3,12 @@
   "ios_app_store_link": "",
   "sticker_packs": [
       {
+         "identifier":"estampitas2024",
+         "name":"Estampitas 2024",
+         "animated_sticker_pack":false,
+         "stickers":"9"
+      },
+      {
          "identifier":"libertadores2024c2a",
          "name":"vs Colo Colo (Vuelta) 1",
          "animated_sticker_pack":false,
