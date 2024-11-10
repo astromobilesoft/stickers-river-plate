@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"lpf2024f22a",
+         "name":"vs Barracas (1)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"lpf2024f22b",
+         "name":"vs Barracas (2)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
          "identifier":"lpf2024f21",
          "name":"vs Instituto",
          "animated_sticker_pack":false,
