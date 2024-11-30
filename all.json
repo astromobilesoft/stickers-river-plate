@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"lpf2024f25",
+         "name":"vs Estudiantes",
+         "animated_sticker_pack":false,
+         "stickers":"19"
+      },
+      {
          "identifier":"lpf2024f22a",
          "name":"vs Barracas (1)",
          "animated_sticker_pack":false,
