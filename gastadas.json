@@ -3,6 +3,12 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier":"aniversario6",
+      "name":"Madrid 6 Años",
+      "animated_sticker_pack":false,
+      "stickers":"5"
+    },
+    {
       "identifier":"superclasico2024a",
       "name":"Gastadas 2024",
       "animated_sticker_pack":false,
