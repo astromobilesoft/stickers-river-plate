@@ -3,6 +3,42 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"lpf2024f26",
+         "name":"vs R. Central",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"aniversario5",
+         "name":"Madrid 5 Años",
+         "animated_sticker_pack":false,
+         "stickers":"10"
+      },
+      {
+         "identifier":"aniversariomadrid1",
+         "name":"Madrid 9/12/2018",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier": "aniversario4",
+         "name": "4 años de Madrid",
+         "animated_sticker_pack": false,
+         "stickers": "12"
+      },
+      {
+         "identifier": "aniversario2",
+         "name": "Segundo Aniversario",
+         "animated_sticker_pack": false,
+         "stickers": "25"
+      },
+      {
+         "identifier": "aniversario1",
+         "name": "Aniversario 9/12/2018",
+         "animated_sticker_pack": false,
+         "stickers": "17"
+      },
+      {
          "identifier":"lpf2024f25",
          "name":"vs Estudiantes",
          "animated_sticker_pack":false,
