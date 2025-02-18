@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"dorsales2025c",
+         "name":"Dorsales 2025 (1)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
          "identifier":"camiseta2425b",
          "name":"Segunda Camiseta 24-25",
          "animated_sticker_pack":false,
