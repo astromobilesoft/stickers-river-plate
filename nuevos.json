@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"memesai1",
+         "name":"Memes Ghibli (1)",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
+         "identifier":"memesai2",
+         "name":"Memes Ghibli (2)",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
          "identifier":"copaargentina2025f32",
          "name":"vs Ciudad de Bolivar",
          "animated_sticker_pack":false,
