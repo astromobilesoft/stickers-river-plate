@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"superclasico2025a",
+         "name":"Gol Superclásico",
+         "animated_sticker_pack":true,
+         "stickers":"9"
+      },
+      {
+         "identifier":"superclasico1",
+         "name":"Superclásico",
+         "animated_sticker_pack":true,
+         "stickers":"9"
+      },
+      {
          "identifier":"gallardovuelve1",
          "name":"Vuelve Gallardo",
          "animated_sticker_pack":true,
@@ -97,12 +109,6 @@
          "name":"vs Argentinos Jrs (2)",
          "animated_sticker_pack":true,
          "stickers":"8"
-      },
-      {
-         "identifier":"superclasico1",
-         "name":"Superclásico",
-         "animated_sticker_pack":true,
-         "stickers":"9"
       },
       {
          "identifier":"festejos1",

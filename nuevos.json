@@ -3,6 +3,48 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"superclasico2025a",
+         "name":"Gol Superclásico",
+         "animated_sticker_pack":true,
+         "stickers":"9"
+      },
+      {
+         "identifier":"superclasico2",
+         "name":"Superclásico (2)",
+         "animated_sticker_pack":true,
+         "stickers":"6"
+      },
+      {
+         "identifier":"superclasico3",
+         "name":"Superclásico (3)",
+         "animated_sticker_pack":false,
+         "stickers":"10"
+      },
+      {
+         "identifier":"golessuperclasico1",
+         "name":"Goles Superclásico (1)",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
+         "identifier":"golessuperclasico2",
+         "name":"Goles Superclásico (2)",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
+         "identifier":"preclasico2022",
+         "name":"Previa Superclásico (2)",
+         "animated_sticker_pack":false,
+         "stickers":"13"
+      },
+      {
+         "identifier":"superclasico1",
+         "name":"Previa Superclásico (1)",
+         "animated_sticker_pack":true,
+         "stickers":"9"
+      },
+      {
          "identifier":"felicespascuas1",
          "name":"Felices Pascuas (1)",
          "animated_sticker_pack":false,
@@ -543,18 +585,6 @@
          "stickers":"19"
       },
       {
-         "identifier":"superclasico2",
-         "name":"Superclásico (2)",
-         "animated_sticker_pack":true,
-         "stickers":"6"
-      },
-      {
-         "identifier":"superclasico3",
-         "name":"Superclásico (3)",
-         "animated_sticker_pack":false,
-         "stickers":"10"
-      },
-      {
          "identifier":"dorsales2024d",
          "name":"Dorsales 2024 (3)",
          "animated_sticker_pack":false,
@@ -643,30 +673,6 @@
          "name":"vs Boca Jrs",
          "animated_sticker_pack":false,
          "stickers":"30"
-      },
-      {
-         "identifier":"golessuperclasico1",
-         "name":"Goles Superclásico (1)",
-         "animated_sticker_pack":false,
-         "stickers":"18"
-      },
-      {
-         "identifier":"golessuperclasico2",
-         "name":"Goles Superclásico (2)",
-         "animated_sticker_pack":false,
-         "stickers":"18"
-      },
-      {
-         "identifier":"preclasico2022",
-         "name":"Previa Superclásico (2)",
-         "animated_sticker_pack":false,
-         "stickers":"13"
-      },
-      {
-         "identifier":"superclasico1",
-         "name":"Previa Superclásico (1)",
-         "animated_sticker_pack":true,
-         "stickers":"9"
       },
       {
          "identifier":"copaliga2024f6",
