@@ -3,6 +3,18 @@
   "ios_app_store_link": "",
   "sticker_packs": [
       {
+         "identifier":"apertura2025f16a",
+         "name":"vs Velez Sarsfield (1)",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
+         "identifier":"apertura2025f16b",
+         "name":"vs Velez Sarsfield (2)",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
          "identifier":"apertura2025f15",
          "name":"vs Boca Juniors",
          "animated_sticker_pack":false,
