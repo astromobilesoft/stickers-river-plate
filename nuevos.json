@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"apertura2025o1a",
+         "name":"vs Barracas Central (1)",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"apertura2025o1b",
+         "name":"vs Barracas Central (2)",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
          "identifier":"libertadores2025fg4",
          "name":"vs Barcelona",
          "animated_sticker_pack":false,
