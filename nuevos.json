@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"equipo2025b",
+         "name":"Plantel 2025 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"equipo2025c",
+         "name":"Plantel 2025 (3)",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
          "identifier":"apertura2025o1a",
          "name":"vs Barracas Central (1)",
          "animated_sticker_pack":false,
@@ -154,7 +166,7 @@
       },
       {
          "identifier":"equipo2025a",
-         "name":"Plantel 2025",
+         "name":"Plantel 2025 (1)",
          "animated_sticker_pack":false,
          "stickers":"30"
       },
