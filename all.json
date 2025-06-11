@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"kit2526a",
+         "name":"Primer Camiseta 25-26",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
+         "identifier":"kit2526b",
+         "name":"Segunda Camiseta 25-26",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
          "identifier":"libertadores2025fg5",
          "name":"vs Independiente del Valle",
          "animated_sticker_pack":false,
