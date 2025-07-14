@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"clausura2025f1a",
+         "name":"vs Platense (1)",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
+         "identifier":"clausura2025f1b",
+         "name":"vs Platense (2)",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
          "identifier":"clubworldcup2025gastadas1",
          "name":"Gastadas Mundial",
          "animated_sticker_pack":false,
