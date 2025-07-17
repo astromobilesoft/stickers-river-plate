@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"juanferanimados",
+         "name":"Juanfer Animados",
+         "animated_sticker_pack":true,
+         "stickers":"9"
+      },
+      {
+         "identifier":"juanferregreso",
+         "name":"JuanFer Regresa",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
          "identifier":"clausura2025f1a",
          "name":"vs Platense (1)",
          "animated_sticker_pack":false,
