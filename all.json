@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"clausura2025f5",
+         "name":"vs Godoy Cruz",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
          "identifier":"copaargentina25f16",
          "name":"vs San Martín Tucumán",
          "animated_sticker_pack":false,
@@ -415,7 +421,7 @@
          "name":"dia del hincha (2)",
          "animated_sticker_pack":false,
          "stickers":"15"
-      },      
+      },
       {
          "identifier":"libertadores2024c2a",
          "name":"vs Colo Colo (Vuelta) 1",
