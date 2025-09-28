@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"diadelhincha1",
+         "name":"Día del Hincha (1)",
+         "animated_sticker_pack":false,
+         "stickers":"10"
+      },
+      {
+         "identifier":"diadelhincha2",
+         "name":"Día del Hincha (2)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
          "identifier":"clausura2025f8",
          "name":"vs Estudiantes",
          "animated_sticker_pack":false,
@@ -487,18 +499,6 @@
          "name":"Facundo Colidio",
          "animated_sticker_pack":false,
          "stickers":"23"
-      },
-      {
-         "identifier":"diadelhincha1",
-         "name":"dia del hincha (1)",
-         "animated_sticker_pack":false,
-         "stickers":"10"
-      },
-      {
-         "identifier":"diadelhincha2",
-         "name":"dia del hincha (2)",
-         "animated_sticker_pack":false,
-         "stickers":"15"
       },
       {
          "identifier":"libertadores2024c2a",
