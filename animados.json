@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"colidiogola1",
+         "name":"Colidio Gol",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
          "identifier":"festejos2025a1",
          "name":"Festejos Gol",
          "animated_sticker_pack":true,

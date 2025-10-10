@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"colidiogola1",
+         "name":"Colidio Gol",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },      
+      {
          "identifier":"clubworldcup2025riverplate1a",
          "name":"Plantel Club World Cup 25 (1)",
          "animated_sticker_pack":false,
