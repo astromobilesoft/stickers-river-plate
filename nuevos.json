@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"kit2526c",
+         "name":"Tercer Camiseta 25-26",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
          "identifier":"apertura2026f1",
          "name":"ve Barracas Central",
          "animated_sticker_pack":false,
@@ -43,7 +49,7 @@
          "name":"Madrid 7 Años",
          "animated_sticker_pack":false,
          "stickers":"6"
-      },         
+      },
       {
          "identifier":"aniversariomadrid1",
          "name":"Madrid 9/12/2018",
@@ -55,13 +61,13 @@
          "name":"Madrid 6 Años",
          "animated_sticker_pack":false,
          "stickers":"5"
-      },      
+      },
       {
          "identifier":"aniversario5",
          "name":"Madrid 5 Años",
          "animated_sticker_pack":false,
          "stickers":"10"
-      },      
+      },
       {
          "identifier":"aniversario4",
          "name":"Madrid 4 Años",
@@ -133,25 +139,25 @@
          "name":"vs Talleres",
          "animated_sticker_pack":false,
          "stickers":"26"
-      },      
+      },
       {
          "identifier":"salasgola1",
          "name":"Salas Gol",
          "animated_sticker_pack":true,
          "stickers":"10"
-      },      
+      },
       {
          "identifier":"colidiogola1",
          "name":"Colidio Gol",
          "animated_sticker_pack":true,
          "stickers":"10"
-      },      
+      },
       {
          "identifier":"copaargentina2025f4",
          "name":"vs Racing Club",
          "animated_sticker_pack":false,
          "stickers":"23"
-      },      
+      },
       {
          "identifier":"diadelhincha1",
          "name":"Día del Hincha (1)",
