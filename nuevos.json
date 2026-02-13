@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"14febrero",
+         "name":"San Valentín (1)",
+         "animated_sticker_pack":false,
+         "stickers":"7"
+      },
+      {
+         "identifier":"sanvalentin",
+         "name":"San Valentín (2)",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
          "identifier":"kit2526c",
          "name":"Tercer Camiseta 25-26",
          "animated_sticker_pack":false,
@@ -189,10 +201,10 @@
          "stickers":"19"
       },
       {
-          "identifier":"libertadores2025o2a",
-          "name":"vs Libertad (1)",
-          "animated_sticker_pack":false,
-          "stickers":"17"
+         "identifier":"libertadores2025o2a",
+         "name":"vs Libertad (1)",
+         "animated_sticker_pack":false,
+         "stickers":"17"
       },
       {
          "identifier":"libertadores2025o2b",
