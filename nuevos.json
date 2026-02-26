@@ -2,6 +2,60 @@
    "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.riverplate",
    "ios_app_store_link":"",
    "sticker_packs":[
+     {
+        "identifier":"gallardogracias1",
+        "name":"Gracias Gallardo (1)",
+        "animated_sticker_pack":false,
+        "stickers":"14"
+     },
+     {
+        "identifier":"gallardogracias2",
+        "name":"Gracias Gallardo (2)",
+        "animated_sticker_pack":false,
+        "stickers":"13"
+     },
+     {
+        "identifier":"gallardoadios1",
+        "name":"Adiós Gallardo",
+        "animated_sticker_pack":false,
+        "stickers":"21"
+     },
+     {
+        "identifier":"galladonoseva",
+        "name":"Gallardo No se va",
+        "animated_sticker_pack":false,
+        "stickers":"12"
+     },
+     {
+        "identifier":"gallardo4",
+        "name":"Marcelo Gallardo (4)",
+        "animated_sticker_pack":true,
+        "stickers":"10"
+     },
+     {
+        "identifier":"gallardo3",
+        "name":"Gallardo Final 2019",
+        "animated_sticker_pack":false,
+        "stickers":"20"
+     },
+     {
+        "identifier":"gallardo2",
+        "name":"Marcelo Gallardo (2)",
+        "animated_sticker_pack":false,
+        "stickers":"18"
+     },
+     {
+        "identifier":"gallardo1",
+        "name":"Marcelo Gallardo (1)",
+        "animated_sticker_pack":false,
+        "stickers":"13"
+     },
+     {
+        "identifier":"gallardoeterno",
+        "name":"Gallardo Eterno",
+        "animated_sticker_pack":false,
+        "stickers":"14"
+     },     
        {
          "identifier":"copaargentina2026f1",
          "name":"vs Ciudad Bolivar",
@@ -693,64 +747,10 @@
          "stickers":"8"
       },
       {
-         "identifier":"gallardoadios1",
-         "name":"Adiós Gallardo",
-         "animated_sticker_pack":false,
-         "stickers":"21"
-      },
-      {
-         "identifier":"gallardogracias1",
-         "name":"Gracias Gallardo (1)",
-         "animated_sticker_pack":false,
-         "stickers":"14"
-      },
-      {
-         "identifier":"gallardogracias2",
-         "name":"Gracias Gallardo (2)",
-         "animated_sticker_pack":false,
-         "stickers":"13"
-      },
-      {
          "identifier":"gallardo2022",
          "name":"Gallardo 2022",
          "animated_sticker_pack":false,
          "stickers":"9"
-      },
-      {
-         "identifier":"galladonoseva",
-         "name":"Gallardo No se va",
-         "animated_sticker_pack":false,
-         "stickers":"12"
-      },
-      {
-         "identifier":"gallardo4",
-         "name":"Marcelo Gallardo (4)",
-         "animated_sticker_pack":true,
-         "stickers":"10"
-      },
-      {
-         "identifier":"gallardo3",
-         "name":"Gallardo Final 2019",
-         "animated_sticker_pack":false,
-         "stickers":"20"
-      },
-      {
-         "identifier":"gallardo2",
-         "name":"Marcelo Gallardo (2)",
-         "animated_sticker_pack":false,
-         "stickers":"18"
-      },
-      {
-         "identifier":"gallardo1",
-         "name":"Marcelo Gallardo (1)",
-         "animated_sticker_pack":false,
-         "stickers":"13"
-      },
-      {
-         "identifier":"gallardoeterno",
-         "name":"Gallardo Eterno",
-         "animated_sticker_pack":false,
-         "stickers":"14"
       },
       {
          "identifier":"lpf2024f8a",
