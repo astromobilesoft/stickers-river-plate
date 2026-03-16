@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"apertura2026f11",
+         "name":"vs Sarmiento Junin",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
          "identifier":"apertura2026f10",
          "name":"vs Huracan",
          "animated_sticker_pack":false,
