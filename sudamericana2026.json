@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"sudamericana2026f3",
+         "name":"vs Bragantino",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
          "identifier":"sudamericana2026f2",
          "name":"vs Carabobo",
          "animated_sticker_pack":false,
