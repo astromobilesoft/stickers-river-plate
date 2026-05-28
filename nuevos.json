@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"sudamericana2026f6",
+         "name":"vs Blooming",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
          "identifier":"apertura2026prefinal1",
          "name":"Vamos River Hoy",
          "animated_sticker_pack":false,
