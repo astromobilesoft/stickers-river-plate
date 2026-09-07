@@ -2,6 +2,12 @@
    "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.riverplate",
    "ios_app_store_link":"",
    "sticker_packs":[
+       {
+         "identifier":"clausura2026f8",
+         "name":"Ind. Rivadavia",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
       {
          "identifier":"clausura2026f7a",
          "name":"vs Banfield (1)",
