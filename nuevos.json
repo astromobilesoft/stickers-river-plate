@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"clausura2026f9",
+         "name":"Atl. Tucuman",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
          "identifier":"clausura2026f8",
          "name":"Ind. Rivadavia",
          "animated_sticker_pack":false,
