@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"diadelhincha1",
+         "name":"Día del Hincha (1)",
+         "animated_sticker_pack":false,
+         "stickers":"10"
+      },
+      {
+         "identifier":"diadelhincha2",
+         "name":"Dia del Hincha (2)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
          "identifier":"clausura2026f9",
          "name":"Atl. Tucuman",
          "animated_sticker_pack":false,
@@ -1675,18 +1687,6 @@
          "name":"Previa Super (2)",
          "animated_sticker_pack":false,
          "stickers":"13"
-      },
-      {
-         "identifier":"diadelhincha1",
-         "name":"Día del Hincha (1)",
-         "animated_sticker_pack":false,
-         "stickers":"10"
-      },
-      {
-         "identifier":"diadelhincha2",
-         "name":"Dia del Hincha (2)",
-         "animated_sticker_pack":false,
-         "stickers":"15"
       },
       {
          "identifier":"copaliga2023f6",
