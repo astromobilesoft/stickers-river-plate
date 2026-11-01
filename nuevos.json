@@ -2,7 +2,49 @@
    "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.riverplate",
    "ios_app_store_link":"",
    "sticker_packs":[
-       {
+      {
+         "identifier":"preclasico2022",
+         "name":"Previa Superclásico (2)",
+         "animated_sticker_pack":false,
+         "stickers":"13"
+      },
+      {
+         "identifier":"superclasico1",
+         "name":"Previa Superclásico (1)",
+         "animated_sticker_pack":true,
+         "stickers":"9"
+      },
+      {
+         "identifier":"superclasico2025a",
+         "name":"Gol Superclásico",
+         "animated_sticker_pack":true,
+         "stickers":"9"
+      },
+      {
+         "identifier":"superclasico2",
+         "name":"Superclásico (2)",
+         "animated_sticker_pack":true,
+         "stickers":"6"
+      },
+      {
+         "identifier":"superclasico3",
+         "name":"Superclásico (3)",
+         "animated_sticker_pack":false,
+         "stickers":"10"
+      },
+      {
+         "identifier":"golessuperclasico1",
+         "name":"Goles Superclásico (1)",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
+         "identifier":"golessuperclasico2",
+         "name":"Goles Superclásico (2)",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
          "identifier":"clausura2026f14",
          "name":"vs Racing Club",
          "animated_sticker_pack":false,
@@ -475,48 +517,6 @@
          "name":"vs Aldosivi",
          "animated_sticker_pack":false,
          "stickers":"15"
-      },
-      {
-         "identifier":"preclasico2022",
-         "name":"Previa Superclásico (2)",
-         "animated_sticker_pack":false,
-         "stickers":"13"
-      },
-      {
-         "identifier":"superclasico1",
-         "name":"Previa Superclásico (1)",
-         "animated_sticker_pack":true,
-         "stickers":"9"
-      },
-      {
-         "identifier":"superclasico2025a",
-         "name":"Gol Superclásico",
-         "animated_sticker_pack":true,
-         "stickers":"9"
-      },
-      {
-         "identifier":"superclasico2",
-         "name":"Superclásico (2)",
-         "animated_sticker_pack":true,
-         "stickers":"6"
-      },
-      {
-         "identifier":"superclasico3",
-         "name":"Superclásico (3)",
-         "animated_sticker_pack":false,
-         "stickers":"10"
-      },
-      {
-         "identifier":"golessuperclasico1",
-         "name":"Goles Superclásico (1)",
-         "animated_sticker_pack":false,
-         "stickers":"18"
-      },
-      {
-         "identifier":"golessuperclasico2",
-         "name":"Goles Superclásico (2)",
-         "animated_sticker_pack":false,
-         "stickers":"18"
       },
       {
          "identifier":"sudamericana2026f2",
